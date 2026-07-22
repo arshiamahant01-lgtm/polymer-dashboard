@@ -129,14 +129,66 @@ def build_polymer_price_charts() -> dict:
                 "points": [{"x": str(r["date"]), "y": float(r["price"])} for _, r in agg.iterrows()],
             })
         direct = fam_df[fam_df["price_type"] == "producer_direct"].sort_values("date")
-        if not direct.empty:
+        for producer, grp in direct.groupby("producer"):
             series.append({
-                "name": "Your logged producer-direct price",
-                "points": [{"x": str(r["date"]), "y": float(r["price"])} for _, r in direct.iterrows()],
+                "name": f"{producer} — producer-direct",
+                "points": [{"x": str(r["date"]), "y": float(r["price"])} for _, r in grp.iterrows()],
             })
         if series:
             charts[family] = {"series": series}
     return charts
+
+
+PLASTEMART_PRODUCERS = ["RIL", "IOCL", "HMEL", "OPAL"]
+
+
+def build_plastemart_comparison() -> dict:
+    """Per polymer family: the union of the 4 most recent producer-direct revision
+    dates across all Plastemart producers combined (a common date column), with a
+    blank cell for any producer that didn't revise on a given date — plus the
+    latest open-market (Credco) price as a separately labeled reference point
+    (never blended into the producer-direct grid, per the CLAUDE.md hard rule)."""
+    prices = read_csv_safe("domestic_price_log.csv")
+    if prices.empty:
+        return {}
+    pm = prices[(prices["price_type"] == "producer_direct") & (prices["source"] == "plastemart")]
+    om = prices[prices["price_type"] == "open_market"]
+
+    comparison = {}
+    for family in POLYMER_FAMILIES:
+        fam_pm = pm[pm["polymer_family"] == family]
+        if fam_pm.empty:
+            continue
+        dates = sorted(fam_pm["date"].unique())[-4:]
+        rows = {}
+        for producer in PLASTEMART_PRODUCERS:
+            by_date = fam_pm[fam_pm["producer"] == producer].set_index("date")["price"]
+            rows[producer] = [
+                round(float(by_date[d]), 2) if d in by_date.index else None
+                for d in dates
+            ]
+
+        open_market_latest = None
+        fam_om = om[om["polymer_family"] == family]
+        if not fam_om.empty:
+            ril_om = fam_om[fam_om["producer"] == "RIL"].sort_values("date")
+            basis = ril_om if not ril_om.empty else fam_om.sort_values("date")
+            latest_date = basis["date"].max()
+            latest_rows = basis[basis["date"] == latest_date]
+            open_market_latest = {
+                "price": round(float(latest_rows["price"].median()), 2),
+                "date": str(latest_date),
+            }
+
+        comparison[family] = {"dates": dates, "rows": rows, "open_market_latest": open_market_latest}
+    return comparison
+
+
+def build_plastemart_news() -> dict:
+    path = DATA_DIR / "plastemart_news.json"
+    if not path.exists():
+        return {"date": None, "articles": []}
+    return json.loads(path.read_text())
 
 
 def build_trade_charts() -> dict:
@@ -187,6 +239,11 @@ def freshness_stamps() -> dict:
         else:
             news = build_news()
             stamps[label] = news.get("date") or "no data yet"
+
+    prices = read_csv_safe("domestic_price_log.csv")
+    pm = prices[prices["source"] == "plastemart"] if not prices.empty and "source" in prices.columns else prices.iloc[0:0]
+    stamps["Plastemart producer-direct prices"] = str(pm["date"].max()) if not pm.empty else "no data yet"
+    stamps["Plastemart news"] = build_plastemart_news().get("date") or "no data yet"
     return stamps
 
 
@@ -202,9 +259,11 @@ def main():
         "kpis": build_kpis(),
         "macro_charts": build_macro_charts(),
         "polymer_price_charts": build_polymer_price_charts(),
+        "plastemart_comparison": build_plastemart_comparison(),
         "trade_charts": build_trade_charts(),
         "capacity_table": build_capacity_table(),
         "news": build_news(),
+        "plastemart_news": build_plastemart_news(),
         "freshness": freshness_stamps(),
     }
     html = render_html(data)

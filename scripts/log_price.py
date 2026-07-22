@@ -39,10 +39,11 @@ def main():
         "grade_count": 1,
         "price_type": "producer_direct",
         "notes": notes,
+        "source": "manual",
     }
     added = upsert_csv(
         "domestic_price_log.csv", [row],
-        key_cols=["date", "polymer_family", "producer", "price_type"],
+        key_cols=["date", "polymer_family", "producer", "price_type", "source"],
     )
     print(f"Logged: {args.date} {polymer} {producer} price_type=producer_direct ₹{price}/kg ({added} row)")
 

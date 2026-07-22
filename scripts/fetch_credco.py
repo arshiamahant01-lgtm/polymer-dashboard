@@ -82,9 +82,10 @@ def run():
             "price": round(stats.median(prices), 2),
             "grade_count": len(prices),
             "price_type": "open_market",
+            "source": "credco",
         })
 
-    added = upsert_csv("domestic_price_log.csv", rows, key_cols=["date", "polymer_family", "producer", "price_type"])
+    added = upsert_csv("domestic_price_log.csv", rows, key_cols=["date", "polymer_family", "producer", "price_type", "source"])
     print(f"domestic_price_log.csv: upserted {added} open-market rows from {len(products)} Credco grades")
 
 

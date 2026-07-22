@@ -109,10 +109,17 @@
   <div class="card" id="polymer-price-card" style="display:none;">
     <h2>Domestic polymer prices</h2>
     <div class="caveat-box"><span class="warn-title">⚠️ Open market ≠ producer-direct/contract price.</span>
-      Credco reflects trader-to-trader open-market prices, not what a producer invoices a distributor. Kept as separate series below — never blended.</div>
+      Credco reflects trader-to-trader open-market prices, not what a producer invoices a distributor. Producer-direct lines (RIL/IOCL/HMEL/OPaL, from Plastemart circulars) are each a network-average across every grade and location in that circular — not any single grade or city. Kept as separate series below — never blended.</div>
     <div class="tabs" id="polymer-tabs"></div>
     <div class="chart-wrap" id="polymer-chart"></div>
     <div class="legend" id="polymer-legend"></div>
+  </div>
+
+  <div class="card" id="plastemart-comparison-card" style="display:none;">
+    <h2>Producer-direct price comparison</h2>
+    <p class="muted">Each producer revises prices on its own schedule (Plastemart circulars) — columns are the union of the 4 most recent revision dates across producers, blank where a producer didn't revise that day.</p>
+    <div class="tabs" id="plastemart-comparison-tabs"></div>
+    <div id="plastemart-comparison-body"></div>
   </div>
 
   <div class="card">
@@ -149,6 +156,11 @@
       <h2 style="font-size:13px;">Macro</h2>
       <ul class="news-list" id="news-macro"></ul>
     </div>
+  </div>
+
+  <div class="card">
+    <h2>Plastics industry news (Plastemart)</h2>
+    <ul class="news-list" id="news-plastemart"></ul>
   </div>
 
   <div class="card">
@@ -390,6 +402,52 @@ function renderTrade() {
   draw(keys[0]);
 }
 
+function renderPlastemartComparison() {
+  const keys = Object.keys(DATA.plastemart_comparison);
+  if (keys.length === 0) return;
+  document.getElementById('plastemart-comparison-card').style.display = 'block';
+  const tabsEl = document.getElementById('plastemart-comparison-tabs');
+  const bodyEl = document.getElementById('plastemart-comparison-body');
+
+  function draw(key) {
+    const entry = DATA.plastemart_comparison[key];
+    let html = '<div style="overflow-x:auto;"><table class="data-table"><thead><tr><th>Producer</th>' +
+      entry.dates.map(d => `<th>${d}</th>`).join('') + '</tr></thead><tbody>';
+    Object.entries(entry.rows).forEach(([producer, prices]) => {
+      html += `<tr><td>${producer}</td>` +
+        prices.map(p => `<td>${p === null ? '<span class="muted">—</span>' : fmtNum(p)}</td>`).join('') +
+        '</tr>';
+    });
+    html += '</tbody></table></div>';
+    if (entry.open_market_latest) {
+      html += `<div class="caveat-box" style="border-left-color:var(--s1); margin-top:10px;">
+        <span class="warn-title">Open market (Credco) reference — not blended with producer-direct above:</span>
+        ₹${fmtNum(entry.open_market_latest.price)}/kg as of ${entry.open_market_latest.date}
+      </div>`;
+    }
+    bodyEl.innerHTML = html;
+  }
+
+  tabsEl.innerHTML = '';
+  keys.forEach((key, i) => {
+    const btn = document.createElement('button');
+    btn.className = 'tab-btn' + (i === 0 ? ' active' : '');
+    btn.textContent = key;
+    btn.onclick = () => {
+      tabsEl.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      draw(key);
+    };
+    tabsEl.appendChild(btn);
+  });
+  draw(keys[0]);
+}
+
+function renderPlastemartNews() {
+  const items = (DATA.plastemart_news.articles || []).map(a => ({ link: a.link, title: a.title, source: a.published }));
+  renderNewsList('news-plastemart', items);
+}
+
 function renderCapacityTable() {
   const table = document.getElementById('capacity-table');
   if (!DATA.capacity_table.length) { table.innerHTML = '<tr><td class="muted">No data</td></tr>'; return; }
@@ -442,8 +500,10 @@ if (Object.keys(DATA.polymer_price_charts).length > 0) {
   document.getElementById('polymer-price-card').style.display = 'block';
   setupTabs(document.getElementById('polymer-tabs'), document.getElementById('polymer-chart'), document.getElementById('polymer-legend'), DATA.polymer_price_charts, Object.keys(DATA.polymer_price_charts)[0]);
 }
+renderPlastemartComparison();
 renderTrade();
 renderCapacityTable();
 renderNews();
+renderPlastemartNews();
 renderFreshness();
 </script>
