@@ -227,8 +227,14 @@ def build_news() -> dict:
 
 def freshness_stamps() -> dict:
     stamps = {}
+    macro_dates = []
+    for fname in ["crude_oil.csv", "natgas.csv", "usdinr.csv"]:
+        df = read_csv_safe(fname)
+        if not df.empty:
+            macro_dates.append(str(df["date"].max()))
+    stamps["Macro (crude/gas/FX)"] = min(macro_dates) if macro_dates else "no data yet"
+
     for label, fname, col in [
-        ("Macro (crude/gas/FX)", "usdinr.csv", "date"),
         ("Domestic open-market prices", "domestic_price_log.csv", "date"),
         ("India trade flows", "india_trade_pp.csv", "period"),
         ("News digest", None, None),
