@@ -211,6 +211,35 @@ function niceTicks(min, max, count) {
   return ticks;
 }
 
+function pickMonthTicks(allDates) {
+  if (allDates.length === 0) return [];
+  const first = new Date(allDates[0]);
+  const last = new Date(allDates[allDates.length - 1]);
+  const months = [];
+  let cursor = new Date(first.getFullYear(), first.getMonth(), 1);
+  while (cursor <= last) {
+    months.push(cursor);
+    cursor = new Date(cursor.getFullYear(), cursor.getMonth() + 1, 1);
+  }
+  const maxTicks = 8;
+  const step = Math.max(1, Math.ceil(months.length / maxTicks));
+  const picked = months.filter((_, i) => i % step === 0);
+  return picked.map(m => {
+    const target = m.getTime();
+    let best = allDates[0], bestDiff = Infinity;
+    allDates.forEach(d => {
+      const diff = Math.abs(new Date(d).getTime() - target);
+      if (diff < bestDiff) { bestDiff = diff; best = d; }
+    });
+    return best;
+  });
+}
+
+function fmtMonthLabel(dateStr) {
+  const d = new Date(dateStr);
+  return d.toLocaleDateString('en-US', { month: 'short', year: '2-digit' });
+}
+
 function renderLineChart(containerEl, legendEl, series, opts) {
   containerEl.innerHTML = '';
   if (legendEl) legendEl.innerHTML = '';
@@ -221,13 +250,19 @@ function renderLineChart(containerEl, legendEl, series, opts) {
   }
   const width = containerEl.clientWidth || 900;
   const height = 260;
-  const padL = 50, padR = 44, padT = 10, padB = 24;
+  const padL = 50, padR = 44, padT = 10, padB = 34;
   const allY = validSeries.flatMap(s => s.points.map(p => p.y));
-  const allX = validSeries[0].points.map(p => p.x);
   const minY = Math.min(...allY), maxY = Math.max(...allY);
-  const n = Math.max(...validSeries.map(s => s.points.length));
 
-  const xScale = i => padL + (n <= 1 ? 0 : (i / (n - 1)) * (width - padL - padR));
+  // Shared date axis: every series is positioned by its actual calendar date, not
+  // its own point-array index — otherwise series with fewer/irregular revision
+  // dates (e.g. a single Credco reading vs. 40 producer-direct circulars) render
+  // squished toward the left instead of aligned with the rest at their true date.
+  const allDates = [...new Set(validSeries.flatMap(s => s.points.map(p => p.x)))].sort();
+  const dateIndex = new Map(allDates.map((d, i) => [d, i]));
+  const n = allDates.length;
+
+  const xScale = i => padL + (n <= 1 ? (width - padL - padR) / 2 : (i / (n - 1)) * (width - padL - padR));
   const yScale = v => {
     const range = maxY - minY || 1;
     return padT + (1 - (v - minY) / range) * (height - padT - padB);
@@ -255,6 +290,21 @@ function renderLineChart(containerEl, legendEl, series, opts) {
     svg.appendChild(label);
   });
 
+  pickMonthTicks(allDates).forEach(d => {
+    const x = xScale(dateIndex.get(d));
+    const tick = document.createElementNS(svgNS, 'line');
+    tick.setAttribute('x1', x); tick.setAttribute('x2', x);
+    tick.setAttribute('y1', height - padB); tick.setAttribute('y2', height - padB + 4);
+    tick.setAttribute('stroke', cssVar('--baseline')); tick.setAttribute('stroke-width', '1');
+    svg.appendChild(tick);
+    const label = document.createElementNS(svgNS, 'text');
+    label.setAttribute('x', x); label.setAttribute('y', height - padB + 16);
+    label.setAttribute('text-anchor', 'middle'); label.setAttribute('font-size', '10');
+    label.setAttribute('fill', cssVar('--text-muted'));
+    label.textContent = fmtMonthLabel(d);
+    svg.appendChild(label);
+  });
+
   // De-collide end labels: greedily push overlapping label y-positions apart,
   // sorted top to bottom, before drawing (dots stay at the true value position).
   const labelPositions = validSeries.map((s, si) => {
@@ -273,7 +323,7 @@ function renderLineChart(containerEl, legendEl, series, opts) {
   validSeries.forEach((s, si) => {
     const color = cssVar(PALETTE[si % PALETTE.length]);
     const pts = s.points;
-    const path = pts.map((p, i) => `${i === 0 ? 'M' : 'L'} ${xScale(i)} ${yScale(p.y)}`).join(' ');
+    const path = pts.map((p, i) => `${i === 0 ? 'M' : 'L'} ${xScale(dateIndex.get(p.x))} ${yScale(p.y)}`).join(' ');
     const pathEl = document.createElementNS(svgNS, 'path');
     pathEl.setAttribute('d', path);
     pathEl.setAttribute('fill', 'none');
@@ -284,14 +334,15 @@ function renderLineChart(containerEl, legendEl, series, opts) {
     svg.appendChild(pathEl);
 
     const lastIdx = pts.length - 1;
+    const lastX = xScale(dateIndex.get(pts[lastIdx].x));
     const dot = document.createElementNS(svgNS, 'circle');
-    dot.setAttribute('cx', xScale(lastIdx)); dot.setAttribute('cy', yScale(pts[lastIdx].y));
+    dot.setAttribute('cx', lastX); dot.setAttribute('cy', yScale(pts[lastIdx].y));
     dot.setAttribute('r', 4); dot.setAttribute('fill', color);
     dot.setAttribute('stroke', cssVar('--surface-1')); dot.setAttribute('stroke-width', '2');
     svg.appendChild(dot);
 
     const endLabel = document.createElementNS(svgNS, 'text');
-    endLabel.setAttribute('x', xScale(lastIdx) + 6); endLabel.setAttribute('y', labelYBySeries[si] + 4);
+    endLabel.setAttribute('x', lastX + 6); endLabel.setAttribute('y', labelYBySeries[si] + 4);
     endLabel.setAttribute('font-size', '11'); endLabel.setAttribute('fill', cssVar('--text-primary'));
     endLabel.textContent = fmtNum(pts[lastIdx].y);
     svg.appendChild(endLabel);
@@ -317,11 +368,11 @@ function renderLineChart(containerEl, legendEl, series, opts) {
     const relX = (evt.clientX - rect.left) / rect.width * width;
     let idx = Math.round(((relX - padL) / (width - padL - padR)) * (n - 1));
     idx = Math.max(0, Math.min(n - 1, idx));
+    const dateLabel = allDates[idx];
     const lines = validSeries.map(s => {
-      const p = s.points[idx];
+      const p = s.points.find(pt => pt.x === dateLabel);
       return p ? `${s.name}: ${fmtNum(p.y)}` : '';
     }).filter(Boolean);
-    const dateLabel = validSeries[0].points[idx] ? validSeries[0].points[idx].x : '';
     tooltip.innerHTML = `<strong>${dateLabel}</strong><br>${lines.join('<br>')}`;
     tooltip.style.display = 'block';
     tooltip.style.left = Math.min(evt.clientX - rect.left + 12, rect.width - 160) + 'px';
