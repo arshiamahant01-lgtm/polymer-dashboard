@@ -231,7 +231,7 @@ date,naphtha_proxy_usd_per_ton,method
 2026-06-17,663.82,brent_crack_spread_estimate
 2026-06-18,656.64,brent_crack_spread_estimate
 2026-06-19,664.77,brent_crack_spread_estimate
-2026-06-22,647.84,brent_crack_spread_estimate
+2026-06-22,635.67,brent_crack_spread_estimate
 2026-06-23,639.41,brent_crack_spread_estimate
 2026-06-24,611.12,brent_crack_spread_estimate
 2026-06-25,623.58,brent_crack_spread_estimate
@@ -254,3 +254,5 @@ date,naphtha_proxy_usd_per_ton,method
 2026-07-17,747.05,tradingeconomics_broker_reference
 2026-07-20,725.98,brent_crack_spread_estimate
 2026-07-20,755.13,tradingeconomics_broker_reference
+2026-07-21,746.72,brent_crack_spread_estimate
+2026-07-22,815.28,tradingeconomics_broker_reference

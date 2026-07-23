@@ -7,12 +7,12 @@ period,partner_country,flow,qty_kg,value_usd
 2024,Australia,export,82518.0,189261.309
 2024,Australia,import,942476.0,477661.897
 2024,Austria,export,2.0,4.742
-2024,Austria,import,84475.0,197488.299
+2024,Austria,import,350.0,1843.157
 2024,Bahrain,export,27418.0,68458.69
 2024,Bahrain,import,504070.0,368433.951
 2024,Bangladesh,export,47045483.0,45377453.917
 2024,Belgium,export,681364.0,943412.514
-2024,Belgium,import,25.0,75.577
+2024,Belgium,import,8995716.0,18730277.546
 2024,Benin,export,50.0,359.129
 2024,Bhutan,export,1539001.0,1755956.438
 2024,Brazil,export,1795423.196,1929042.894
@@ -22,11 +22,11 @@ period,partner_country,flow,qty_kg,value_usd
 2024,Burundi,export,2500.0,2206.298
 2024,Cameroon,export,1770740.0,2108757.883
 2024,Canada,export,15467.0,42282.807
-2024,Canada,import,236520.0,1363249.865
+2024,Canada,import,1354657.0,1202767.589
 2024,Central African Rep.,export,750.0,602.956
 2024,Chile,export,1248004.0,1162245.385
 2024,China,export,20960901.0,21078524.678
-2024,China,import,105144721.0,120506604.944
+2024,China,import,4.0,1045.557
 2024,"China, Hong Kong SAR",export,100.0,208.528
 2024,"China, Hong Kong SAR",import,5265.0,10103.6
 2024,Colombia,export,1033150.0,1095220.244
@@ -55,13 +55,13 @@ period,partner_country,flow,qty_kg,value_usd
 2024,Fiji,export,10.0,2.777
 2024,Fiji,import,24940.0,14873.795
 2024,Finland,export,750.0,560.302
-2024,Finland,import,19800.0,97179.102
+2024,Finland,import,1730480.0,5491433.762
 2024,France,export,48310.406,1060985.446
-2024,France,import,1675.0,5770.428
+2024,France,import,2560468.0,6086499.623
 2024,Gambia,export,25.0,299.119
 2024,Georgia,import,160712.0,93243.677
 2024,Germany,export,137158.082,260100.137
-2024,Germany,import,1034876.0,4177520.94
+2024,Germany,import,6200.0,27685.798
 2024,Ghana,export,2946540.0,2711254.416
 2024,Ghana,import,307800.0,187542.961
 2024,Greece,export,24800.0,23667.771
@@ -72,10 +72,10 @@ period,partner_country,flow,qty_kg,value_usd
 2024,Honduras,export,494000.0,493560.893
 2024,Honduras,import,22507.0,10211.205
 2024,Hungary,export,13000.0,22469.989
-2024,Hungary,import,120320.0,49108.512
-2024,India,import,20213375.0,20436452.434
+2024,Hungary,import,62925.0,21708.831
+2024,India,import,20242527.0,20480740.342
 2024,Indonesia,export,27692880.0,27026039.468
-2024,Indonesia,import,363432.0,341905.964
+2024,Indonesia,import,9000.0,19130.955
 2024,Iran,export,33900.0,139346.867
 2024,Iran,import,174.0,1979.509
 2024,Iraq,export,24065.0,62028.473
@@ -83,9 +83,9 @@ period,partner_country,flow,qty_kg,value_usd
 2024,Israel,export,4697460.0,3861279.529
 2024,Israel,import,864011.0,1947834.547
 2024,Italy,export,13887730.0,14843986.299
-2024,Italy,import,999759.629,2869463.195
+2024,Italy,import,1715991.311,4587107.28
 2024,Japan,export,37780.0,89305.558
-2024,Japan,import,37883890.0,56605900.547
+2024,Japan,import,4000.0,31212.027
 2024,Jordan,export,700.0,1619.156
 2024,Kazakhstan,export,97200.0,91543.155
 2024,Kenya,export,11324450.0,10159606.384
@@ -98,7 +98,7 @@ period,partner_country,flow,qty_kg,value_usd
 2024,Madagascar,export,3238535.0,3108066.289
 2024,Malawi,export,112000.0,113894.76
 2024,Malaysia,export,2034939.0,2196998.174
-2024,Malaysia,import,1963500.0,1928839.473
+2024,Malaysia,import,35691380.0,49967843.575
 2024,Maldives,export,2756.0,5655.88
 2024,Mauritania,export,442000.0,446341.44
 2024,Mauritius,export,7350.0,47189.542
@@ -110,17 +110,17 @@ period,partner_country,flow,qty_kg,value_usd
 2024,Nepal,export,53149338.0,53662091.698
 2024,Nepal,import,145000.0,94767.924
 2024,Netherlands,export,470.246,10306.327
-2024,Netherlands,import,3842066.0,7725361.194
+2024,Netherlands,import,99075.0,196172.334
 2024,New Zealand,export,696.0,17950.658
 2024,New Zealand,import,54690.0,37194.948
 2024,Nicaragua,export,115000.0,112939.512
 2024,Nigeria,export,8447221.0,9251651.82
 2024,Norway,export,424.0,1421.512
-2024,Norway,import,170.0,1729.162
+2024,Norway,import,130.0,1325.25
 2024,Oman,export,908631.0,895394.508
 2024,Oman,import,42107720.0,40305703.305
 2024,"Other Asia, nes",export,99176.138,174152.947
-2024,"Other Asia, nes",import,10103380.0,14506655.016
+2024,"Other Asia, nes",import,34750.0,51846.755
 2024,Panama,import,322530.0,199827.266
 2024,Paraguay,export,580000.0,598967.151
 2024,Peru,export,2063056.0,2367871.343
@@ -133,19 +133,19 @@ period,partner_country,flow,qty_kg,value_usd
 2024,Qatar,export,104595.0,204910.006
 2024,Qatar,import,375750.0,239030.622
 2024,Rep. of Korea,export,69114.0,156558.523
-2024,Rep. of Korea,import,87923066.0,134420146.098
+2024,Rep. of Korea,import,3000.0,18249.494
 2024,Romania,export,2850.0,8370.908
-2024,Romania,import,1250.0,2660.219
+2024,Romania,import,450.0,361.364
 2024,Russian Federation,export,5583853.0,8749315.483
 2024,Russian Federation,import,891000.0,876053.978
 2024,Rwanda,export,78000.0,76660.711
 2024,Saudi Arabia,export,5059173.0,9868112.731
-2024,Saudi Arabia,import,375834040.0,376651149.794
+2024,Saudi Arabia,import,4796610.0,4777765.897
 2024,Senegal,export,311313.0,399618.762
 2024,Seychelles,export,273.0,1468.143
 2024,Sierra Leone,export,442000.0,442873.55
 2024,Singapore,export,5073895.0,7396829.054
-2024,Singapore,import,296711631.96,376904168.033
+2024,Singapore,import,20.0,60.292
 2024,Slovakia,export,250.0,276.056
 2024,Slovakia,import,33716.0,97468.102
 2024,Slovenia,export,1000.0,2652.841
@@ -154,16 +154,16 @@ period,partner_country,flow,qty_kg,value_usd
 2024,South Africa,export,6299598.0,8703996.432
 2024,South Africa,import,975229.0,975736.45
 2024,Spain,export,7438.0,14810.573
-2024,Spain,import,210962.0,633229.566
+2024,Spain,import,195235.0,586939.793
 2024,Sri Lanka,export,20226156.0,19954957.517
 2024,Sri Lanka,import,591383.0,370100.762
 2024,Sudan,import,311166.0,204063.022
 2024,Suriname,export,783.0,6418.921
-2024,Sweden,import,25.0,233.979
+2024,Sweden,import,44411.207,211474.222
 2024,Switzerland,export,400.0,1682.496
-2024,Switzerland,import,96.0,1634.606
+2024,Switzerland,import,909.0,3296.945
 2024,Thailand,export,19882267.0,22179791.336
-2024,Thailand,import,3255800.0,4143382.274
+2024,Thailand,import,204000.0,223633.507
 2024,Togo,export,650000.0,629889.531
 2024,Togo,import,24020.0,14238.163
 2024,Trinidad and Tobago,export,116.0,164.944
@@ -171,12 +171,12 @@ period,partner_country,flow,qty_kg,value_usd
 2024,Türkiye,export,43667695.0,44425842.971
 2024,Türkiye,import,13300.0,56519.111
 2024,USA,export,971063.0,1519864.539
-2024,USA,import,58775.0,301942.567
+2024,USA,import,57513378.0,66862832.21
 2024,Uganda,export,803000.0,810615.989
 2024,United Arab Emirates,export,6665756.0,9245115.892
-2024,United Arab Emirates,import,389994930.0,390260533.905
+2024,United Arab Emirates,import,5000.0,21887.177
 2024,United Kingdom,export,3650504.0,3687231.6
-2024,United Kingdom,import,48000.0,236720.001
+2024,United Kingdom,import,14240.0,6406.672
 2024,United Rep. of Tanzania,export,8832907.0,7934853.778
 2024,Uruguay,export,52000.0,51424.192
 2024,Uzbekistan,export,80000.0,66353.455

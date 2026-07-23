@@ -1,0 +1,9858 @@
+[
+  {
+    "id": 9,
+    "product_name": "HD BLOW HMEL",
+    "product_grade": "B0155D - 0.35 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "132.00",
+    "price_trend": [
+      131,
+      131,
+      131,
+      131,
+      131,
+      131,
+      133
+    ]
+  },
+  {
+    "id": 10,
+    "product_name": "HD BLOW BPC",
+    "product_grade": "BL3 - 0.35 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "96.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 11,
+    "product_name": "HD BLOW GAIL",
+    "product_grade": "B52A003A - 0.42 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "136.00",
+    "price_trend": [
+      135,
+      133,
+      133,
+      133,
+      135,
+      135,
+      135
+    ]
+  },
+  {
+    "id": 12,
+    "product_name": "HD BLOW HALDIA",
+    "product_grade": "B6401 - 0.4 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "135.00",
+    "price_trend": [
+      135,
+      133,
+      133,
+      133,
+      134,
+      135,
+      135
+    ]
+  },
+  {
+    "id": 13,
+    "product_name": "HD BLOW OFF-GRADE",
+    "product_grade": "HILENE - 0.35 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "88.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 22,
+    "product_name": "HD BLOW FORMOSA",
+    "product_grade": "5502 - 0.35 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "91.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 24,
+    "product_name": "HD MOLDING GAIL",
+    "product_grade": "i56A200 A - 20 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "126.00",
+    "price_trend": [
+      128,
+      125,
+      126,
+      126,
+      126,
+      126,
+      126
+    ]
+  },
+  {
+    "id": 25,
+    "product_name": "HD MOLDING GAIL",
+    "product_grade": "i50A180 A - 18 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "126.00",
+    "price_trend": [
+      126,
+      126,
+      127,
+      127,
+      127,
+      128,
+      126.5
+    ]
+  },
+  {
+    "id": 26,
+    "product_name": "HD MOLDING HMEL",
+    "product_grade": "M2050S - 20 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "127.00",
+    "price_trend": [
+      125.5,
+      125,
+      126.5,
+      126.5,
+      125.5,
+      126.5,
+      125.5
+    ]
+  },
+  {
+    "id": 28,
+    "product_name": "HD MOLDING DOW",
+    "product_grade": "10000KT - 8 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "95.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 31,
+    "product_name": "MDPE MARLEX YELLOW",
+    "product_grade": "PLAIN BAGS - 0.5 on 5kg MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": "94.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 32,
+    "product_name": "MDPE Yellow Regrind ",
+    "product_grade": "PLAIN BAGS - 0.5 MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": "77.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 34,
+    "product_name": "LL MOLDING FORMOSA",
+    "product_grade": "Taisox 3490 - 50 MFI",
+    "category_full_name": "LL - MOLDING",
+    "current_price": "97.01",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 37,
+    "product_name": "LL NON-SLIP GAIL",
+    "product_grade": "F18A020U - 2 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": null,
+    "price_trend": [
+      116,
+      116,
+      116,
+      116,
+      116,
+      116,
+      116
+    ]
+  },
+  {
+    "id": 38,
+    "product_name": "HD MOLDING HALDIA",
+    "product_grade": "M6007L - 7.5 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "124.00",
+    "price_trend": [
+      124,
+      124,
+      124,
+      124,
+      124,
+      124,
+      124
+    ]
+  },
+  {
+    "id": 39,
+    "product_name": "HD IM HMEL",
+    "product_grade": "M0662D - 6.5 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "90.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 40,
+    "product_name": "HD MOLDING HMEL",
+    "product_grade": "NON-PRIME N0662D - 6.5 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "86.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 41,
+    "product_name": "HD MOLDING NON-PRIME",
+    "product_grade": "SABIC - 6.5 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "68.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 42,
+    "product_name": "HD MOLDING HALDIA",
+    "product_grade": "M5018L - 19 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "127.00",
+    "price_trend": [
+      125,
+      125,
+      127,
+      127,
+      127,
+      127,
+      126
+    ]
+  },
+  {
+    "id": 44,
+    "product_name": "HD BLOW OPAL",
+    "product_grade": "B5004 - 0.4 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "134.00",
+    "price_trend": [
+      135,
+      135,
+      135,
+      135,
+      135,
+      134,
+      134
+    ]
+  },
+  {
+    "id": 45,
+    "product_name": "HD BLOW GAIL",
+    "product_grade": "B63A003 - 0.4 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "133.00",
+    "price_trend": [
+      134,
+      133,
+      133,
+      133,
+      134,
+      134,
+      133
+    ]
+  },
+  {
+    "id": 46,
+    "product_name": "HD BLOW OFF-GRADE",
+    "product_grade": "MARLEX Plain Bags - 0.35 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "13.23",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 47,
+    "product_name": "HD BLOW TITAN",
+    "product_grade": "5502 - 0.35 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "92.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 49,
+    "product_name": "HD BLOW RIL",
+    "product_grade": "B5502 - 0.4 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "89.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 54,
+    "product_name": "HD MOLDING POWDER",
+    "product_grade": "Plain Bags (Jumbo)",
+    "category_full_name": "HD - MOLDING",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 60,
+    "product_name": "HD BLOW HMEL NP",
+    "product_grade": "N0155D",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "132.00",
+    "price_trend": [
+      126.5,
+      126.5,
+      132,
+      132,
+      132,
+      132,
+      132
+    ]
+  },
+  {
+    "id": 61,
+    "product_name": "PVC K67 CGPC",
+    "product_grade": "H-66",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "86.50",
+    "price_trend": [
+      83,
+      83,
+      83,
+      83,
+      83,
+      83,
+      86.5
+    ]
+  },
+  {
+    "id": 62,
+    "product_name": "PVC K67 LG",
+    "product_grade": "LS100H",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "87.50",
+    "price_trend": [
+      87,
+      87,
+      87,
+      87,
+      87,
+      87,
+      87.5
+    ]
+  },
+  {
+    "id": 63,
+    "product_name": "PVC K67 TPC THAI",
+    "product_grade": "SP660",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "78.00",
+    "price_trend": [
+      78,
+      78,
+      78,
+      78,
+      78,
+      78,
+      78
+    ]
+  },
+  {
+    "id": 66,
+    "product_name": "22% SIPCHEM",
+    "product_grade": "3522 - 3.5 MFI",
+    "category_full_name": "EVA - VA-22%",
+    "current_price": "155.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 73,
+    "product_name": "HD MOLDING RIL",
+    "product_grade": "50MA180 - 20 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "128.00",
+    "price_trend": [
+      128,
+      128,
+      128,
+      128,
+      126.5,
+      126,
+      126.5
+    ]
+  },
+  {
+    "id": 74,
+    "product_name": "LL SLIP GAIL",
+    "product_grade": "F18S020U - 2 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "94.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 75,
+    "product_name": "LD GP SLIP RIL",
+    "product_grade": "J24FS040 - 4 MFI",
+    "category_full_name": "LD - GENERAL PURPOSE",
+    "current_price": "159.00",
+    "price_trend": [
+      154,
+      154.5,
+      157,
+      157,
+      157,
+      157.25,
+      157.5
+    ]
+  },
+  {
+    "id": 76,
+    "product_name": "LD GP FILM SABIC",
+    "product_grade": "HP4023WN - 4 MFI",
+    "category_full_name": "LD - GENERAL PURPOSE",
+    "current_price": "160.00",
+    "price_trend": [
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160
+    ]
+  },
+  {
+    "id": 77,
+    "product_name": "HD MOLDING GAIL",
+    "product_grade": "i60A080 A - 8 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": null,
+    "price_trend": [
+      125,
+      125,
+      125,
+      125,
+      125,
+      125,
+      125
+    ]
+  },
+  {
+    "id": 78,
+    "product_name": "HD MOLDING RIL",
+    "product_grade": "M60075 - 8 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "128.50",
+    "price_trend": [
+      130,
+      130,
+      130,
+      130,
+      130,
+      130,
+      130
+    ]
+  },
+  {
+    "id": 79,
+    "product_name": "HD RAFFIA HALDIA",
+    "product_grade": "T9 - 1.1 MFI",
+    "category_full_name": "HD - RAFFIA",
+    "current_price": "132.00",
+    "price_trend": [
+      132,
+      133,
+      133,
+      133,
+      131,
+      133,
+      132
+    ]
+  },
+  {
+    "id": 80,
+    "product_name": "HD RAFFIA GAIL",
+    "product_grade": "Y50A010 A - 1 MFI",
+    "category_full_name": "HD - RAFFIA",
+    "current_price": null,
+    "price_trend": [
+      137,
+      137,
+      137,
+      137,
+      137,
+      137,
+      137
+    ]
+  },
+  {
+    "id": 82,
+    "product_name": "LL MOLDING RIL",
+    "product_grade": "M26500 - 50 MFI",
+    "category_full_name": "LL - MOLDING",
+    "current_price": "142.00",
+    "price_trend": [
+      138,
+      140,
+      140,
+      140,
+      141,
+      144,
+      142
+    ]
+  },
+  {
+    "id": 83,
+    "product_name": "LD GP SLIP TASNEE",
+    "product_grade": "4025AS - 4 MFI",
+    "category_full_name": "LD - GENERAL PURPOSE",
+    "current_price": "113.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 84,
+    "product_name": "HD PIPE PE-63 OPAL",
+    "product_grade": "P5002 - 0.9 (5kg) MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": "144.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 85,
+    "product_name": "LL NON-SLIP GAIL",
+    "product_grade": "F18A010U - 1 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "128.00",
+    "price_trend": [
+      116,
+      116,
+      116,
+      116,
+      125,
+      125,
+      127.5
+    ]
+  },
+  {
+    "id": 86,
+    "product_name": "HD BLOW MBM HMEL",
+    "product_grade": "B0148D - 0.36 (5kg) MFI",
+    "category_full_name": "HD - MEDIUM BLOW (MBM)",
+    "current_price": "135.00",
+    "price_trend": [
+      136,
+      135,
+      134,
+      134,
+      134,
+      135,
+      135
+    ]
+  },
+  {
+    "id": 87,
+    "product_name": "HD PIPE PE-100 OPAL",
+    "product_grade": "P50H03 - 0.28 (5kg) MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": "145.00",
+    "price_trend": [
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145
+    ]
+  },
+  {
+    "id": 88,
+    "product_name": "LL NON-SLIP HMEL",
+    "product_grade": "F0118L - 1 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "126.00",
+    "price_trend": [
+      121.5,
+      121.5,
+      122,
+      122,
+      125,
+      126.5,
+      126
+    ]
+  },
+  {
+    "id": 89,
+    "product_name": "LL MOLDING OPAL",
+    "product_grade": "M2550 - 50 MFI",
+    "category_full_name": "LL - MOLDING",
+    "current_price": "136.50",
+    "price_trend": [
+      135,
+      135,
+      135,
+      135,
+      135,
+      137.5,
+      137.5
+    ]
+  },
+  {
+    "id": 90,
+    "product_name": "LL MOLDING GAIL",
+    "product_grade": "I26A500U - 50 MFI",
+    "category_full_name": "LL - MOLDING",
+    "current_price": "158.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 91,
+    "product_name": "LL ROTO GAIL",
+    "product_grade": "R35A042 - 4.2 MFI",
+    "category_full_name": "LL - ROTO",
+    "current_price": "94.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 92,
+    "product_name": "LL ROTO OPAL",
+    "product_grade": "T3804 - 4 MFI",
+    "category_full_name": "LL - ROTO",
+    "current_price": "130.50",
+    "price_trend": [
+      128,
+      128,
+      132,
+      132,
+      132,
+      132,
+      130.5
+    ]
+  },
+  {
+    "id": 94,
+    "product_name": "LL SLIP GAIL",
+    "product_grade": "F20S009 A - 0.9 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "117.50",
+    "price_trend": [
+      117.5,
+      117.5,
+      117.5,
+      117.5,
+      117.5,
+      117.5,
+      117.5
+    ]
+  },
+  {
+    "id": 95,
+    "product_name": "LD MILK LOTRENE",
+    "product_grade": "FB5026 - 0.6 MFI",
+    "category_full_name": "LD - MILK",
+    "current_price": "115.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 96,
+    "product_name": "LD GP SLIP LOTRENE",
+    "product_grade": "FD0474 - 4 MFI",
+    "category_full_name": "LD - GENERAL PURPOSE",
+    "current_price": "152.50",
+    "price_trend": [
+      152.5,
+      152.5,
+      152.5,
+      152.5,
+      152.5,
+      152.5,
+      152.5
+    ]
+  },
+  {
+    "id": 99,
+    "product_name": "PP IOCL",
+    "product_grade": "1060MG - 6 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": null,
+    "price_trend": [
+      141,
+      141,
+      141,
+      141,
+      141,
+      141,
+      141
+    ]
+  },
+  {
+    "id": 100,
+    "product_name": "PP IOCL",
+    "product_grade": "1110MG - 11 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "133.00",
+    "price_trend": [
+      129,
+      133,
+      133,
+      133,
+      133,
+      133,
+      133
+    ]
+  },
+  {
+    "id": 101,
+    "product_name": "PP IOCL",
+    "product_grade": "1030MG - 3 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "126.00",
+    "price_trend": [
+      126,
+      126,
+      126,
+      126,
+      126,
+      126,
+      126
+    ]
+  },
+  {
+    "id": 102,
+    "product_name": "PP IOCL",
+    "product_grade": "1110MAS - 11 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "87.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 103,
+    "product_name": "PP IOCL",
+    "product_grade": "1200MG - 20 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "146.00",
+    "price_trend": [
+      146,
+      146,
+      146,
+      146,
+      146,
+      146,
+      146
+    ]
+  },
+  {
+    "id": 104,
+    "product_name": "PP IOCL",
+    "product_grade": "P1200MAS - 20 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 105,
+    "product_name": "PP IOCL",
+    "product_grade": "P1500MG - 40 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 106,
+    "product_name": "PP IOCL",
+    "product_grade": "P1600MN - 60 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 107,
+    "product_name": "PP LAM IOCL",
+    "product_grade": "1350EG - 35 MFI",
+    "category_full_name": "PP - LAMINATION",
+    "current_price": "137.00",
+    "price_trend": [
+      137,
+      137,
+      137,
+      137,
+      137,
+      137,
+      137
+    ]
+  },
+  {
+    "id": 108,
+    "product_name": "PP RAFFIA IOCL",
+    "product_grade": "1030RG - 3.5 MFI",
+    "category_full_name": "PP - RAFFIA",
+    "current_price": null,
+    "price_trend": [
+      131,
+      131,
+      131,
+      131,
+      131,
+      131,
+      131
+    ]
+  },
+  {
+    "id": 109,
+    "product_name": "PP RAFFIA/ TAPE IOCL",
+    "product_grade": "P1045RG - 4.5 MFI",
+    "category_full_name": "PP - RAFFIA",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 110,
+    "product_name": "BOPP FILM IOCL",
+    "product_grade": "1030FG - 3 MFI",
+    "category_full_name": "PP - BOPP",
+    "current_price": "20.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 111,
+    "product_name": "PP FILM TQ IOCL",
+    "product_grade": "1100FS - 10 MFI",
+    "category_full_name": "PP - FILM TQ",
+    "current_price": "165.00",
+    "price_trend": [
+      165,
+      165,
+      165,
+      165,
+      165,
+      165,
+      165
+    ]
+  },
+  {
+    "id": 112,
+    "product_name": "PP THERMO IOCL",
+    "product_grade": "P1030TC - 3 MFI",
+    "category_full_name": "PP - THERMOFORMING",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 113,
+    "product_name": "PP FIBRE IOCL",
+    "product_grade": "1200YG - 20 MFI",
+    "category_full_name": "PP - FIBER AND FILAMENT",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 114,
+    "product_name": "PP FILAMENT IOCL",
+    "product_grade": "P1250YG - 25 MFI",
+    "category_full_name": "PP - FIBER AND FILAMENT",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 115,
+    "product_name": "PP NON-WOVEN IOCL",
+    "product_grade": "1350YG - 35 MFI",
+    "category_full_name": "PP - NON-WOVEN",
+    "current_price": "145.00",
+    "price_trend": [
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145
+    ]
+  },
+  {
+    "id": 116,
+    "product_name": "PP NON-WOVEN IOCL",
+    "product_grade": "1350YH - 35 MFI",
+    "category_full_name": "PP - NON-WOVEN",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 117,
+    "product_name": "PP OPAL",
+    "product_grade": "MH13 - 13 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "137.00",
+    "price_trend": [
+      131,
+      129,
+      133,
+      133,
+      135,
+      135.5,
+      135.5
+    ]
+  },
+  {
+    "id": 118,
+    "product_name": "PP FIBRE OPAL",
+    "product_grade": "RH25X - 25 MFI",
+    "category_full_name": "PP - FIBER AND FILAMENT",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 119,
+    "product_name": "PP RAFFIA OPAL",
+    "product_grade": "RH03 - 3.3 MFI",
+    "category_full_name": "PP - RAFFIA",
+    "current_price": "136.00",
+    "price_trend": [
+      130,
+      131,
+      133,
+      133,
+      133,
+      135,
+      136
+    ]
+  },
+  {
+    "id": 120,
+    "product_name": "PP NON-WOVEN OPAL",
+    "product_grade": "RH38 - 38 MFI",
+    "category_full_name": "PP - NON-WOVEN",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 121,
+    "product_name": "PP HMEL",
+    "product_grade": "M12 - 12 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "138.00",
+    "price_trend": [
+      132,
+      131,
+      134,
+      134,
+      134,
+      136,
+      137
+    ]
+  },
+  {
+    "id": 122,
+    "product_name": "BOPP FILM HMEL",
+    "product_grade": "F03RR/ F03RR1 - 3.2 MFI",
+    "category_full_name": "PP - BOPP",
+    "current_price": "34.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 123,
+    "product_name": "PP FILM TQ HMEL",
+    "product_grade": "F10SR - 10 MFI",
+    "category_full_name": "PP - FILM TQ",
+    "current_price": null,
+    "price_trend": [
+      132,
+      132,
+      132,
+      132,
+      132,
+      132,
+      132
+    ]
+  },
+  {
+    "id": 124,
+    "product_name": "PP FILM OPAL",
+    "product_grade": "FH10S - 10 MFI",
+    "category_full_name": "PP - FILM TQ",
+    "current_price": "145.00",
+    "price_trend": [
+      142,
+      141.5,
+      141.5,
+      141.5,
+      144,
+      145,
+      145
+    ]
+  },
+  {
+    "id": 125,
+    "product_name": "PP FIBRE HMEL",
+    "product_grade": "Y25GR/ Y25GR1 - 25 MFI",
+    "category_full_name": "PP - FIBER AND FILAMENT",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 126,
+    "product_name": "PP NON-WOVEN HMEL",
+    "product_grade": "Y35GR - 35 MFI",
+    "category_full_name": "PP - NON-WOVEN",
+    "current_price": "149.00",
+    "price_trend": [
+      132,
+      132,
+      132,
+      132,
+      132,
+      132,
+      149
+    ]
+  },
+  {
+    "id": 127,
+    "product_name": "PP FIBRE HMEL",
+    "product_grade": "Y12GR - 12 MFI",
+    "category_full_name": "PP - FIBER AND FILAMENT",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 128,
+    "product_name": "PP RANDOM BLOW IOCL",
+    "product_grade": "2020EC - 2 MFI",
+    "category_full_name": "PP - RANDOM BLOW",
+    "current_price": "109.75",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 129,
+    "product_name": "PP RANDOM IOCL",
+    "product_grade": "2120MC - 12 MFI",
+    "category_full_name": "PP - RANDOM",
+    "current_price": null,
+    "price_trend": [
+      147,
+      147,
+      147,
+      147,
+      147,
+      147,
+      147
+    ]
+  },
+  {
+    "id": 130,
+    "product_name": "PPCP IOCL",
+    "product_grade": "3030MG - 3.5 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "141.00",
+    "price_trend": [
+      138,
+      137.5,
+      139,
+      139,
+      139,
+      141,
+      141
+    ]
+  },
+  {
+    "id": 131,
+    "product_name": "PPCP BLOW IOCL",
+    "product_grade": "4015EG - 1.5 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "159.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 132,
+    "product_name": "PPCP IOCL",
+    "product_grade": "4080MA - 8 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": null,
+    "price_trend": [
+      138,
+      138,
+      138,
+      138,
+      138,
+      138,
+      138
+    ]
+  },
+  {
+    "id": 133,
+    "product_name": "PPCP IOCL",
+    "product_grade": "4100MH - 10 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "152.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 134,
+    "product_name": "PPCP HEAVY DUTY IOCL",
+    "product_grade": "5080MG - 10 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "106.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 135,
+    "product_name": "PPCP IOCL",
+    "product_grade": "3120MA - 12 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "140.00",
+    "price_trend": [
+      133,
+      133,
+      137.5,
+      137.5,
+      137.5,
+      140,
+      140
+    ]
+  },
+  {
+    "id": 136,
+    "product_name": "PPCP IOCL",
+    "product_grade": "3250MN - 25 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "108.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 137,
+    "product_name": "PPCP IOCL",
+    "product_grade": "3650MN - 65 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 138,
+    "product_name": "PPCP IOCL",
+    "product_grade": "3400MN - 40 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "137.00",
+    "price_trend": [
+      137,
+      137,
+      137,
+      137,
+      137,
+      137,
+      137
+    ]
+  },
+  {
+    "id": 139,
+    "product_name": "PPCP IOCL",
+    "product_grade": "3250MG - 25 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "133.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 140,
+    "product_name": "PPCP HALDIA",
+    "product_grade": "M312 - 12 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "141.00",
+    "price_trend": [
+      133,
+      134,
+      135,
+      135,
+      139,
+      139,
+      139
+    ]
+  },
+  {
+    "id": 141,
+    "product_name": "PPCP BASELL",
+    "product_grade": "EP332K - 5 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "96.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 142,
+    "product_name": "LD NON-SLIP RIL",
+    "product_grade": "J1020FF20 - 1.8 MFI",
+    "category_full_name": "LD - NON-SLIP",
+    "current_price": "158.00",
+    "price_trend": [
+      157,
+      156,
+      156,
+      156,
+      157,
+      157,
+      157
+    ]
+  },
+  {
+    "id": 143,
+    "product_name": "LD FILM/ FOAM ASPC",
+    "product_grade": "LFI2119 - Non-Slip - 1.9 MFI",
+    "category_full_name": "LD - EXTRUSION/ FOAM",
+    "current_price": "114.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 144,
+    "product_name": "LD FILM/FOAM BASELL",
+    "product_grade": "2427H - 1.9 MFI",
+    "category_full_name": "LD - EXTRUSION/ FOAM",
+    "current_price": "106.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 145,
+    "product_name": "LL SLIP IOCL",
+    "product_grade": "010F18S - 0.9 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": null,
+    "price_trend": [
+      116,
+      116,
+      116,
+      116,
+      116,
+      116,
+      116
+    ]
+  },
+  {
+    "id": 146,
+    "product_name": "HM IOCL",
+    "product_grade": "002DF50 - 0.22 MFI",
+    "category_full_name": "HD - HM",
+    "current_price": "137.00",
+    "price_trend": [
+      137,
+      136,
+      136,
+      136,
+      136,
+      138,
+      137
+    ]
+  },
+  {
+    "id": 147,
+    "product_name": "HD BLOW IOCL",
+    "product_grade": "012DB54 - 0.35 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "134.00",
+    "price_trend": [
+      133.5,
+      133,
+      135,
+      135,
+      134,
+      134,
+      134
+    ]
+  },
+  {
+    "id": 148,
+    "product_name": "LL NON-SLIP IOCL",
+    "product_grade": "010F18A - 0.9 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "128.00",
+    "price_trend": [
+      122,
+      122,
+      123,
+      123,
+      123,
+      125,
+      127.5
+    ]
+  },
+  {
+    "id": 149,
+    "product_name": "LL NON-SLIP IOCL",
+    "product_grade": "020F18A - 2.0 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "127.00",
+    "price_trend": [
+      127,
+      127,
+      127,
+      127,
+      127,
+      127,
+      127
+    ]
+  },
+  {
+    "id": 150,
+    "product_name": "LL DRIP PIPE IOCL",
+    "product_grade": "010L22S - 1.1 MFI",
+    "category_full_name": "LL - DRIP",
+    "current_price": "89.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 151,
+    "product_name": "LL ROTO IOCL",
+    "product_grade": "042R35A - 4.5 MFI",
+    "category_full_name": "LL - ROTO",
+    "current_price": "100.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 152,
+    "product_name": "LL ROTO IOCL",
+    "product_grade": "040R40A - 4.0 MFI",
+    "category_full_name": "LL - ROTO",
+    "current_price": "98.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 153,
+    "product_name": "LL MOLDING IOCL",
+    "product_grade": "500M24A - 50 MFI",
+    "category_full_name": "LL - MOLDING",
+    "current_price": "136.00",
+    "price_trend": [
+      136,
+      134,
+      136,
+      136,
+      137,
+      139,
+      139
+    ]
+  },
+  {
+    "id": 154,
+    "product_name": "LL LAM IOCL",
+    "product_grade": "065E24A - 6.5 MFI",
+    "category_full_name": "LL - LAMINATION",
+    "current_price": "150.00",
+    "price_trend": [
+      150,
+      150,
+      150,
+      150,
+      150,
+      150,
+      150
+    ]
+  },
+  {
+    "id": 155,
+    "product_name": "HD CAPS IOCL",
+    "product_grade": "020M52 - 2.7 MFI",
+    "category_full_name": "HD - COMPRESSION MOLDING",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 156,
+    "product_name": "HD MOLDING IOCL",
+    "product_grade": "080M60 - 8 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "126.00",
+    "price_trend": [
+      126.5,
+      129,
+      127,
+      127,
+      127,
+      127,
+      126
+    ]
+  },
+  {
+    "id": 157,
+    "product_name": "HD IM IOCL",
+    "product_grade": "080M55 - 8 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "130.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 158,
+    "product_name": "HD IM IOCL",
+    "product_grade": "080M60U - 8 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 159,
+    "product_name": "HD MOLDING IOCL",
+    "product_grade": "180M50 - 20 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "128.00",
+    "price_trend": [
+      128,
+      126,
+      128,
+      128,
+      128,
+      128,
+      128
+    ]
+  },
+  {
+    "id": 160,
+    "product_name": "HD RAFFIA IOCL",
+    "product_grade": "010E52 - 0.9 MFI",
+    "category_full_name": "HD - RAFFIA",
+    "current_price": "96.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 161,
+    "product_name": "HD RAFFIA IOCL",
+    "product_grade": "012E50 - 1.2 MFI",
+    "category_full_name": "HD - RAFFIA",
+    "current_price": "96.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 163,
+    "product_name": "HD BLOW ECSR IOCL",
+    "product_grade": "010DB50 - 1.2 (5kg) MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "159.00",
+    "price_trend": [
+      159,
+      159,
+      159,
+      159,
+      159,
+      159,
+      159
+    ]
+  },
+  {
+    "id": 164,
+    "product_name": "HD BLOW STIFF IOCL",
+    "product_grade": "012DB60 - 0.42 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "155.00",
+    "price_trend": [
+      155,
+      155,
+      155,
+      155,
+      155,
+      155,
+      155
+    ]
+  },
+  {
+    "id": 165,
+    "product_name": "HD BLOW MBM IOCL",
+    "product_grade": "003DB52 - 0.40 (5kg) MFI",
+    "category_full_name": "HD - MEDIUM BLOW (MBM)",
+    "current_price": "132.00",
+    "price_trend": [
+      132,
+      132,
+      132,
+      132,
+      132,
+      132,
+      132
+    ]
+  },
+  {
+    "id": 166,
+    "product_name": "HD BLOW LBM IOCL",
+    "product_grade": "002DB52 - 0.20 (5kg) MFI",
+    "category_full_name": "HD - LARGE BLOW (LBM)",
+    "current_price": "98.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 167,
+    "product_name": "HD PIPE PE-100 IOCL",
+    "product_grade": "002DP48 - 0.25 MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": "147.00",
+    "price_trend": [
+      147,
+      147,
+      147,
+      147,
+      147,
+      147,
+      147
+    ]
+  },
+  {
+    "id": 168,
+    "product_name": "HD PIPE PE-80 IOCL",
+    "product_grade": "004DP44 - 0.45 MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": "138.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 169,
+    "product_name": "HD PIPE PE-63 IOCL",
+    "product_grade": "010DP45 - 0.9 MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": "144.00",
+    "price_trend": [
+      144,
+      144,
+      144,
+      144,
+      144,
+      144,
+      144
+    ]
+  },
+  {
+    "id": 171,
+    "product_name": "PP HALDIA",
+    "product_grade": "M110 - 11 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "141.00",
+    "price_trend": [
+      141,
+      141,
+      141,
+      141,
+      141,
+      141,
+      141
+    ]
+  },
+  {
+    "id": 172,
+    "product_name": "LD MILK RIL",
+    "product_grade": "J1005FY20 - 0.5 MFI",
+    "category_full_name": "LD - MILK",
+    "current_price": "174.00",
+    "price_trend": [
+      203,
+      203,
+      203,
+      203,
+      172,
+      172,
+      170
+    ]
+  },
+  {
+    "id": 173,
+    "product_name": "LD MOLDING RIL",
+    "product_grade": "16MA400 - 30 MFI",
+    "category_full_name": "LD - MOLDING",
+    "current_price": "173.00",
+    "price_trend": [
+      165,
+      166,
+      166,
+      166,
+      166,
+      166,
+      172
+    ]
+  },
+  {
+    "id": 174,
+    "product_name": "PPCP HALDIA",
+    "product_grade": "M304 - 3.5 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "140.00",
+    "price_trend": [
+      129,
+      129,
+      129,
+      129,
+      129,
+      138,
+      139
+    ]
+  },
+  {
+    "id": 175,
+    "product_name": "EVA 18% SIPCHEM",
+    "product_grade": "2518 CO - 2.5 MFI",
+    "category_full_name": "EVA - VA-18%",
+    "current_price": "139.00",
+    "price_trend": [
+      140.5,
+      139,
+      139,
+      139,
+      138,
+      138,
+      139
+    ]
+  },
+  {
+    "id": 176,
+    "product_name": "EVA 18% LOTTE",
+    "product_grade": "LVS 430 - 2.5 MFI",
+    "category_full_name": "EVA - VA-18%",
+    "current_price": "138.50",
+    "price_trend": [
+      139.5,
+      139,
+      139,
+      139,
+      138,
+      138,
+      138.5
+    ]
+  },
+  {
+    "id": 177,
+    "product_name": "EVA 18% HANWHA",
+    "product_grade": "1316 - 2 MFI",
+    "category_full_name": "EVA - VA-18%",
+    "current_price": "132.00",
+    "price_trend": [
+      132,
+      132,
+      132,
+      132,
+      132,
+      132,
+      132
+    ]
+  },
+  {
+    "id": 178,
+    "product_name": "19% HANWHA",
+    "product_grade": "E181F - 2.5 MFI",
+    "category_full_name": "EVA - VA-19%",
+    "current_price": "127.50",
+    "price_trend": [
+      127.5,
+      127.5,
+      127.5,
+      127.5,
+      127.5,
+      127.5,
+      127.5
+    ]
+  },
+  {
+    "id": 179,
+    "product_name": "EVA 28% HANWHA",
+    "product_grade": "E282PV - 25 MFI",
+    "category_full_name": "EVA - VA-28%",
+    "current_price": "145.00",
+    "price_trend": [
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145
+    ]
+  },
+  {
+    "id": 180,
+    "product_name": "EVA 28% LOTTE",
+    "product_grade": "VA 800 - 28 MFI",
+    "category_full_name": "EVA - VA-28%",
+    "current_price": "160.00",
+    "price_trend": [
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160
+    ]
+  },
+  {
+    "id": 181,
+    "product_name": "EVA 18% DOW",
+    "product_grade": "ELVAX 460 - 2.5 MFI",
+    "category_full_name": "EVA - VA-18%",
+    "current_price": "142.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 182,
+    "product_name": "HM GAIL",
+    "product_grade": "F55HM0003 - 0.09 MFI",
+    "category_full_name": "HD - HM",
+    "current_price": "137.00",
+    "price_trend": [
+      138,
+      138,
+      137.5,
+      137.5,
+      138,
+      138,
+      137
+    ]
+  },
+  {
+    "id": 183,
+    "product_name": "HM HMEL",
+    "product_grade": "F0050D - 0.05 MFI",
+    "category_full_name": "HD - HM",
+    "current_price": "137.00",
+    "price_trend": [
+      137,
+      134,
+      137.5,
+      137.5,
+      134,
+      138,
+      137
+    ]
+  },
+  {
+    "id": 184,
+    "product_name": "HM SABIC",
+    "product_grade": "F00952 - 0.05 MFI",
+    "category_full_name": "HD - HM",
+    "current_price": "155.00",
+    "price_trend": [
+      155,
+      155,
+      155,
+      155,
+      155,
+      155,
+      155
+    ]
+  },
+  {
+    "id": 185,
+    "product_name": "LL SLIP HMEL",
+    "product_grade": "F0120L - 1 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "128.00",
+    "price_trend": [
+      121.5,
+      121,
+      122,
+      122,
+      125,
+      126.5,
+      127.5
+    ]
+  },
+  {
+    "id": 186,
+    "product_name": "LL SLIP GAIL",
+    "product_grade": "F18S010U - 1 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "126.00",
+    "price_trend": [
+      134.5,
+      134.5,
+      134.5,
+      134.5,
+      126,
+      126,
+      126
+    ]
+  },
+  {
+    "id": 187,
+    "product_name": "LL SLIP BCPL",
+    "product_grade": "F20S010I - 0.9 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "128.50",
+    "price_trend": [
+      124,
+      122,
+      123,
+      123,
+      123,
+      126.5,
+      127.5
+    ]
+  },
+  {
+    "id": 188,
+    "product_name": "LL NON-SLIP BCPL",
+    "product_grade": "F20A010I - 0.9 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "127.00",
+    "price_trend": [
+      123,
+      122.5,
+      123,
+      123,
+      123,
+      125,
+      125
+    ]
+  },
+  {
+    "id": 189,
+    "product_name": "LL MOLDING HMEL",
+    "product_grade": "M5026L - 50 MFI",
+    "category_full_name": "LL - MOLDING",
+    "current_price": "140.00",
+    "price_trend": [
+      133,
+      134,
+      135,
+      135,
+      135,
+      136.5,
+      136
+    ]
+  },
+  {
+    "id": 190,
+    "product_name": "LD GP SLIP BASELL",
+    "product_grade": "2427K - 4 MFI",
+    "category_full_name": "LD - GENERAL PURPOSE",
+    "current_price": "151.00",
+    "price_trend": [
+      151,
+      151,
+      151,
+      151,
+      151,
+      151,
+      151
+    ]
+  },
+  {
+    "id": 191,
+    "product_name": "EVA 28% POLENE NP",
+    "product_grade": "MV1055(SUB) - 8 MFI",
+    "category_full_name": "EVA - VA-28%",
+    "current_price": "127.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 192,
+    "product_name": "19% HANWHA",
+    "product_grade": "1319 - 2.5 MFI",
+    "category_full_name": "EVA - VA-19%",
+    "current_price": "135.00",
+    "price_trend": [
+      135,
+      135,
+      135,
+      135,
+      135,
+      135,
+      135
+    ]
+  },
+  {
+    "id": 193,
+    "product_name": "PP RANDOM RIL",
+    "product_grade": "SRM100NC - 12 MFI",
+    "category_full_name": "PP - RANDOM",
+    "current_price": null,
+    "price_trend": [
+      144,
+      144,
+      144,
+      144,
+      144,
+      144,
+      144
+    ]
+  },
+  {
+    "id": 194,
+    "product_name": "PP FILM BCPL",
+    "product_grade": "FH110N - 10.5 MFI",
+    "category_full_name": "PP - FILM TQ",
+    "current_price": null,
+    "price_trend": [
+      150,
+      150,
+      150,
+      150,
+      150,
+      150,
+      150
+    ]
+  },
+  {
+    "id": 195,
+    "product_name": "PP MOLDING BCPL",
+    "product_grade": "IH120NA - 12 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "147.00",
+    "price_trend": [
+      147,
+      147,
+      147,
+      147,
+      147,
+      147,
+      147
+    ]
+  },
+  {
+    "id": 196,
+    "product_name": "PP MRPL",
+    "product_grade": "HM012T - 12 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "97.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 197,
+    "product_name": "PPCP RIL",
+    "product_grade": "B120MA - 12 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "142.00",
+    "price_trend": [
+      136,
+      137,
+      137,
+      137,
+      143,
+      142,
+      143
+    ]
+  },
+  {
+    "id": 198,
+    "product_name": "PPCP SIPCHEM",
+    "product_grade": "C 070 BA - 7 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 199,
+    "product_name": "PPCP SUMITOMO",
+    "product_grade": "AW564 - 9 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 200,
+    "product_name": "PPCP BASELL",
+    "product_grade": "EP332L - 7 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "158.00",
+    "price_trend": [
+      158,
+      158,
+      158,
+      158,
+      158,
+      158,
+      158
+    ]
+  },
+  {
+    "id": 201,
+    "product_name": "PPCP EXXONMOBIL",
+    "product_grade": "7033 - 8 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "140.00",
+    "price_trend": [
+      140,
+      140,
+      140,
+      140,
+      140,
+      140,
+      140
+    ]
+  },
+  {
+    "id": 202,
+    "product_name": "PPCP RIL",
+    "product_grade": "C080 - 9 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "140.00",
+    "price_trend": [
+      140,
+      140,
+      140,
+      140,
+      140,
+      140,
+      140
+    ]
+  },
+  {
+    "id": 203,
+    "product_name": "PPCP BOROUGE OG",
+    "product_grade": "BCE",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 204,
+    "product_name": "PPCP BASELL OG",
+    "product_grade": "BASELL",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 205,
+    "product_name": "HD BLOW RIL",
+    "product_grade": "B56003 - 0.5 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "136.00",
+    "price_trend": [
+      135,
+      133,
+      133,
+      133,
+      135,
+      134.75,
+      134.5
+    ]
+  },
+  {
+    "id": 206,
+    "product_name": "HD BLOW MBM RIL",
+    "product_grade": "B5010 - 0.65 (5kg) MFI",
+    "category_full_name": "HD - MEDIUM BLOW (MBM)",
+    "current_price": "135.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 207,
+    "product_name": "HD BLOW OPAL",
+    "product_grade": "B6003 - 0.35 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "91.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 208,
+    "product_name": "HD PIPE PE-80 OPAL",
+    "product_grade": "P51H10 - 0.45 (5kg) MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": "149.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 209,
+    "product_name": "HD IM CAPS HALDIA",
+    "product_grade": "M5002L - 2.5 MFI",
+    "category_full_name": "HD - COMPRESSION MOLDING",
+    "current_price": "97.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 210,
+    "product_name": "LD GP NON-SLIP RIL",
+    "product_grade": "J24FA040 - 4 MFI",
+    "category_full_name": "LD - GENERAL PURPOSE",
+    "current_price": "157.50",
+    "price_trend": [
+      165,
+      165,
+      165,
+      165,
+      157.5,
+      157.5,
+      157.5
+    ]
+  },
+  {
+    "id": 211,
+    "product_name": "LD NON-SLIP RIL",
+    "product_grade": "J1020FA20 - 2 MFI",
+    "category_full_name": "LD - NON-SLIP",
+    "current_price": "158.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 212,
+    "product_name": "LD HEAVY DUTY RIL",
+    "product_grade": "22FA002 - 0.2 MFI",
+    "category_full_name": "LD - HEAVY DUTY",
+    "current_price": "177.00",
+    "price_trend": [
+      176,
+      176,
+      176,
+      176,
+      176,
+      176,
+      176
+    ]
+  },
+  {
+    "id": 213,
+    "product_name": "LD CABLE RIL",
+    "product_grade": "J1020XA20 - 2 MFI",
+    "category_full_name": "LD - CABLE INSULATION",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 214,
+    "product_name": "LD FILM/ FOAM RIL",
+    "product_grade": "J1007FA20 - 0.7 MFI",
+    "category_full_name": "LD - EXTRUSION/ FOAM",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 215,
+    "product_name": "LD LAMINATION RIL",
+    "product_grade": "1070LA17 - 8.5 MFI",
+    "category_full_name": "LD - LAMINATION",
+    "current_price": "165.00",
+    "price_trend": [
+      160,
+      161,
+      161,
+      161,
+      163,
+      163,
+      163
+    ]
+  },
+  {
+    "id": 216,
+    "product_name": "LD SHRINK LOTRENE",
+    "product_grade": "FB5026 - 0.6 MFI",
+    "category_full_name": "LD - MEDIUM DUTY",
+    "current_price": "100.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 217,
+    "product_name": "LL SLIP HALDIA",
+    "product_grade": "71501S - 1 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "125.50",
+    "price_trend": [
+      114,
+      114,
+      114,
+      114,
+      114,
+      125.5,
+      126
+    ]
+  },
+  {
+    "id": 218,
+    "product_name": "LL NON-SLIP HALDIA",
+    "product_grade": "71601W - 1 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "124.00",
+    "price_trend": [
+      114.5,
+      114.5,
+      123,
+      123,
+      124,
+      124,
+      124
+    ]
+  },
+  {
+    "id": 219,
+    "product_name": "LL NON-SLIP HALDIA",
+    "product_grade": "71602W - 2.5 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": null,
+    "price_trend": [
+      132.5,
+      132.5,
+      132.5,
+      132.5,
+      132.5,
+      132.5,
+      132.5
+    ]
+  },
+  {
+    "id": 220,
+    "product_name": "LL SLIP HALDIA",
+    "product_grade": "71602S - 2 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 221,
+    "product_name": "LL NON-SLIP HMEL",
+    "product_grade": "F0218L - 2 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "127.00",
+    "price_trend": [
+      114,
+      122,
+      122,
+      122,
+      122,
+      122,
+      127
+    ]
+  },
+  {
+    "id": 222,
+    "product_name": "LL DRIP PIPE HMEL",
+    "product_grade": "D0120L - 1 MFI",
+    "category_full_name": "LL - DRIP",
+    "current_price": "126.00",
+    "price_trend": [
+      135,
+      135,
+      135,
+      135,
+      135,
+      126.5,
+      126
+    ]
+  },
+  {
+    "id": 223,
+    "product_name": "LL SLIP BCPL",
+    "product_grade": "F22S025I - 2 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "91.25",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 224,
+    "product_name": "LL NON-SLIP BCPL",
+    "product_grade": "F22A025I - 2 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "134.00",
+    "price_trend": [
+      134,
+      134,
+      134,
+      134,
+      134,
+      134,
+      134
+    ]
+  },
+  {
+    "id": 225,
+    "product_name": "LL NON-SLIP GAIL",
+    "product_grade": "E20AN009 - 0.9 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "134.00",
+    "price_trend": [
+      134,
+      134,
+      134,
+      134,
+      134,
+      134,
+      134
+    ]
+  },
+  {
+    "id": 226,
+    "product_name": "LL SLIP OPAL",
+    "product_grade": "F2001S - 1 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "128.00",
+    "price_trend": [
+      123,
+      122.5,
+      124,
+      124,
+      126,
+      126.5,
+      128
+    ]
+  },
+  {
+    "id": 227,
+    "product_name": "LL NON-SLIP OPAL",
+    "product_grade": "F2001A - 1 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "127.00",
+    "price_trend": [
+      122,
+      122,
+      123,
+      123,
+      126,
+      125,
+      127
+    ]
+  },
+  {
+    "id": 228,
+    "product_name": "LL NON-SLIP OPAL",
+    "product_grade": "F2002A - 2 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "127.00",
+    "price_trend": [
+      122,
+      122,
+      122,
+      122,
+      122,
+      122,
+      127
+    ]
+  },
+  {
+    "id": 229,
+    "product_name": "PP RAFFIA HMEL",
+    "product_grade": "R03RR - 3.4 MFI",
+    "category_full_name": "PP - RAFFIA",
+    "current_price": "136.00",
+    "price_trend": [
+      130,
+      131,
+      131,
+      131,
+      134,
+      135,
+      136
+    ]
+  },
+  {
+    "id": 230,
+    "product_name": "PP THERMO HMEL",
+    "product_grade": "T05NR - 5.5 MFI",
+    "category_full_name": "PP - THERMOFORMING",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 231,
+    "product_name": "PP RAFFIA BCPL",
+    "product_grade": "WH034N - 3.4 MFI",
+    "category_full_name": "PP - RAFFIA",
+    "current_price": "113.25",
+    "price_trend": [
+      113.25,
+      113.25,
+      113.25,
+      113.25,
+      113.25,
+      113.25,
+      113.25
+    ]
+  },
+  {
+    "id": 232,
+    "product_name": "PP RAFFIA BCPL",
+    "product_grade": "WH040N - 4.2 MFI",
+    "category_full_name": "PP - RAFFIA",
+    "current_price": "96.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 233,
+    "product_name": "LL LAMINATION OPAL",
+    "product_grade": "E2507 - 7 MFI",
+    "category_full_name": "LL - LAMINATION",
+    "current_price": "134.00",
+    "price_trend": [
+      131,
+      131,
+      135,
+      135,
+      134.5,
+      135,
+      134.5
+    ]
+  },
+  {
+    "id": 234,
+    "product_name": "LL MOLDING OPAL",
+    "product_grade": "M2525 - 25 MFI",
+    "category_full_name": "LL - MOLDING",
+    "current_price": "134.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      134.5
+    ]
+  },
+  {
+    "id": 236,
+    "product_name": "HD BLOW MBM OPAL ",
+    "product_grade": "B55H02 - 0.2 MFI",
+    "category_full_name": "HD - MEDIUM BLOW (MBM)",
+    "current_price": "135.00",
+    "price_trend": [
+      134,
+      134,
+      134,
+      134,
+      134,
+      134,
+      135
+    ]
+  },
+  {
+    "id": 237,
+    "product_name": "HM OPAL",
+    "product_grade": "F52H04 - 0.25 (5kg) MFI",
+    "category_full_name": "HD - HM",
+    "current_price": "137.00",
+    "price_trend": [
+      139,
+      139,
+      139,
+      139,
+      139,
+      139,
+      137
+    ]
+  },
+  {
+    "id": 238,
+    "product_name": "HD RAFFIA OPAL",
+    "product_grade": "R5504 - 0.43 MFI",
+    "category_full_name": "HD - RAFFIA",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 239,
+    "product_name": "HD RAFFIA/TAPES OPAL",
+    "product_grade": "R5410 - 0.9 MFI",
+    "category_full_name": "HD - RAFFIA",
+    "current_price": null,
+    "price_trend": [
+      152,
+      152,
+      152,
+      152,
+      152,
+      152,
+      152
+    ]
+  },
+  {
+    "id": 240,
+    "product_name": "HD MONOFILAMENT OPAL",
+    "product_grade": "Y5710 - 0.9 MFI",
+    "category_full_name": "HD - RAFFIA",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 241,
+    "product_name": "LL ROTO BCPL",
+    "product_grade": "R38A040I - 4.5 MFI",
+    "category_full_name": "LL - ROTO",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 242,
+    "product_name": "LL LAM BCPL",
+    "product_grade": "E30A060I - 7 MFI",
+    "category_full_name": "LL - LAMINATION",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 243,
+    "product_name": "HD RAFFIA BCPL",
+    "product_grade": "W54A009I - 0.9 MFI",
+    "category_full_name": "HD - RAFFIA",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 244,
+    "product_name": "HD IM BCPL",
+    "product_grade": "I58 U/A 080I - 8.4 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 245,
+    "product_name": "HD IM BCPL",
+    "product_grade": "I52A180I - 20 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 246,
+    "product_name": "LL DRIP PIPE GAIL",
+    "product_grade": "D22S010 - 1 MFI",
+    "category_full_name": "LL - DRIP",
+    "current_price": "131.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 247,
+    "product_name": "LL METALLOCENE GAIL",
+    "product_grade": "SLIP MF18S010U - 1 MFI",
+    "category_full_name": "LL - METALLOCENE",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 248,
+    "product_name": "LL METALLOCENE GAIL",
+    "product_grade": "NON-SLIP MF18A010U - 1 MFI",
+    "category_full_name": "LL - METALLOCENE",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 249,
+    "product_name": "LL ROTO GAIL",
+    "product_grade": "R36A050U - 4.5 MFI",
+    "category_full_name": "LL - ROTO",
+    "current_price": "135.00",
+    "price_trend": [
+      147,
+      147,
+      147,
+      147,
+      147,
+      147,
+      147
+    ]
+  },
+  {
+    "id": 250,
+    "product_name": "LL ROTO UV BCPL",
+    "product_grade": "R38U040I - 4.5 MFI",
+    "category_full_name": "LL - ROTO",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 251,
+    "product_name": "LL ROTO UV GAIL",
+    "product_grade": "R35U042 - 4.2 MFI",
+    "category_full_name": "LL - ROTO",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 252,
+    "product_name": "LL ROTO UV GAIL",
+    "product_grade": "R36U050U - 4.5 MFI",
+    "category_full_name": "LL - ROTO",
+    "current_price": "147.00",
+    "price_trend": [
+      147,
+      147,
+      147,
+      147,
+      147,
+      147,
+      147
+    ]
+  },
+  {
+    "id": 253,
+    "product_name": "LL EXTRUSON/LAM GAIL",
+    "product_grade": "E36A060 - 7 MFI",
+    "category_full_name": "LL - LAMINATION",
+    "current_price": "105.30",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 254,
+    "product_name": "HD PIPE PE-80 GAIL",
+    "product_grade": "P54A001 - 0.46 (5kg) MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 255,
+    "product_name": "HD PIPE PE63 UV GAIL",
+    "product_grade": "E52U003 - 1 (5kg) MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": "144.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 256,
+    "product_name": "HD PIPE PE-63 GAIL",
+    "product_grade": "P46A010U - 0.95 (5kg) MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 257,
+    "product_name": "HD PIPE PE-63 GAIL",
+    "product_grade": "E52A003 - 0.95 (5kg) MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": "158.00",
+    "price_trend": [
+      158,
+      158,
+      158,
+      158,
+      158,
+      158,
+      158
+    ]
+  },
+  {
+    "id": 258,
+    "product_name": "HD PIPE PE-100 GAIL",
+    "product_grade": "P52A003 - 0.25 (5kg) MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": "91.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 259,
+    "product_name": "HD BLOW MBM GAIL",
+    "product_grade": "B55HM0003 - 0.08 MFI",
+    "category_full_name": "HD - MEDIUM BLOW (MBM)",
+    "current_price": "165.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 260,
+    "product_name": "HD BLOW GAIL",
+    "product_grade": "B53A003U - 0.38 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 261,
+    "product_name": "HD FILM GAIL",
+    "product_grade": "E45A003 - 0.6 MFI",
+    "category_full_name": "HD - FILM",
+    "current_price": "134.00",
+    "price_trend": [
+      137,
+      134,
+      134,
+      134,
+      134,
+      134,
+      134
+    ]
+  },
+  {
+    "id": 262,
+    "product_name": "HD IM UV GAIL",
+    "product_grade": "I60U080 - 8 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 263,
+    "product_name": "HD IM GAIL",
+    "product_grade": "I50A250 - 25 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 264,
+    "product_name": "HD MONOFILAMENT GAIL",
+    "product_grade": "T50A010 - 1 MFI",
+    "category_full_name": "HD - RAFFIA",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 265,
+    "product_name": "HD RAFFIA GAIL",
+    "product_grade": "W50A009 A - 0.9 MFI",
+    "category_full_name": "HD - RAFFIA",
+    "current_price": "118.00",
+    "price_trend": [
+      118,
+      118,
+      118,
+      118,
+      118,
+      118,
+      118
+    ]
+  },
+  {
+    "id": 266,
+    "product_name": "PP CAST FILM HMEL",
+    "product_grade": "F08RR/ F08RR1 - 8 MFI",
+    "category_full_name": "PP - CAST FILM",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 267,
+    "product_name": "HD IM CAPS HMEL",
+    "product_grade": "M0252S - 2 MFI",
+    "category_full_name": "HD - COMPRESSION MOLDING",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 268,
+    "product_name": "HD BLOW LBM HMEL",
+    "product_grade": "B0053D - 0.08 MFI",
+    "category_full_name": "HD - LARGE BLOW (LBM)",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 269,
+    "product_name": "HD PIPE PE-100 HMEL",
+    "product_grade": "P0049D - 0.26 (5kg) MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": "125.00",
+    "price_trend": [
+      128,
+      126,
+      126,
+      126,
+      126,
+      125,
+      125
+    ]
+  },
+  {
+    "id": 270,
+    "product_name": "HD PIPE PE-80 HMEL",
+    "product_grade": "P0148D - 0.4 (5kg) MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": "90.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 271,
+    "product_name": "HD PIPE PE-63 HMEL",
+    "product_grade": "P0142S - 0.6 (5kg) MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": "126.00",
+    "price_trend": [
+      126,
+      126,
+      126,
+      126,
+      126,
+      126,
+      126
+    ]
+  },
+  {
+    "id": 272,
+    "product_name": "HD MONOFILAMENT HMEL",
+    "product_grade": "Y0154S - 1 MFI",
+    "category_full_name": "HD - RAFFIA",
+    "current_price": "150.00",
+    "price_trend": [
+      150,
+      150,
+      150,
+      150,
+      150,
+      150,
+      150
+    ]
+  },
+  {
+    "id": 273,
+    "product_name": "HD RAFFIA HMEL",
+    "product_grade": "R0150S - 1 MFI",
+    "category_full_name": "HD - RAFFIA",
+    "current_price": "91.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 274,
+    "product_name": "HD FILM HMEL",
+    "product_grade": "F0146D - 0.18 MFI",
+    "category_full_name": "HD - FILM",
+    "current_price": "134.00",
+    "price_trend": [
+      134,
+      134,
+      134,
+      134,
+      134,
+      134,
+      134
+    ]
+  },
+  {
+    "id": 275,
+    "product_name": "HD FILM HMEL",
+    "product_grade": "F0153S - 0.2 MFI",
+    "category_full_name": "HD - HM",
+    "current_price": "132.00",
+    "price_trend": [
+      132,
+      132,
+      132,
+      132,
+      132,
+      132,
+      132
+    ]
+  },
+  {
+    "id": 276,
+    "product_name": "LL MOLDING HMEL",
+    "product_grade": "M2024L - 20 MFI",
+    "category_full_name": "LL - MOLDING",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 277,
+    "product_name": "LL LAMINATION HMEL",
+    "product_grade": "E0725L - 7 MFI",
+    "category_full_name": "LL - LAMINATION",
+    "current_price": "133.50",
+    "price_trend": [
+      134,
+      134,
+      134,
+      134,
+      133,
+      133.5,
+      133.5
+    ]
+  },
+  {
+    "id": 278,
+    "product_name": "LL ROTO HMEL",
+    "product_grade": "R0536L - 5 MFI",
+    "category_full_name": "LL - ROTO",
+    "current_price": "129.00",
+    "price_trend": [
+      126,
+      129,
+      129,
+      129,
+      129,
+      129,
+      129
+    ]
+  },
+  {
+    "id": 279,
+    "product_name": "PP RANDOM HMEL",
+    "product_grade": "RM30CR - 30 MFI",
+    "category_full_name": "PP - RANDOM",
+    "current_price": "154.00",
+    "price_trend": [
+      154,
+      154,
+      154,
+      154,
+      154,
+      154,
+      154
+    ]
+  },
+  {
+    "id": 280,
+    "product_name": "PPCP HMEL",
+    "product_grade": "CM03RR - 3.5 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "139.00",
+    "price_trend": [
+      132,
+      133,
+      134,
+      134,
+      134,
+      134,
+      139
+    ]
+  },
+  {
+    "id": 281,
+    "product_name": "PPCP HMEL",
+    "product_grade": "CM08NR - 8 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "139.00",
+    "price_trend": [
+      132,
+      132,
+      135,
+      135,
+      135,
+      137,
+      139
+    ]
+  },
+  {
+    "id": 282,
+    "product_name": "PPCP HMEL",
+    "product_grade": "CM12RR - 12 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "137.50",
+    "price_trend": [
+      132,
+      132,
+      134,
+      134,
+      138,
+      139,
+      137.5
+    ]
+  },
+  {
+    "id": 283,
+    "product_name": "PP HALDIA",
+    "product_grade": "M103 - 3 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "93.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 284,
+    "product_name": "PP HALDIA",
+    "product_grade": "M106 - 6 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 285,
+    "product_name": "PP HALDIA",
+    "product_grade": "M108 - 8 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "125.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 286,
+    "product_name": "PP RAFFIA HALDIA",
+    "product_grade": "R103 - 3.3 MFI",
+    "category_full_name": "PP - RAFFIA",
+    "current_price": "113.00",
+    "price_trend": [
+      113.75,
+      113.75,
+      113.75,
+      113.75,
+      113.75,
+      113.75,
+      113.75
+    ]
+  },
+  {
+    "id": 287,
+    "product_name": "PP THERMO HALDIA",
+    "product_grade": "T103 - 3.3 MFI",
+    "category_full_name": "PP - THERMOFORMING",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 288,
+    "product_name": "PP BOPP FILM HALDIA",
+    "product_grade": "F103 - 3.3 MFI",
+    "category_full_name": "PP - BOPP",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 289,
+    "product_name": "PP FILM TQ HALDIA",
+    "product_grade": "F110 - 11 MFI",
+    "category_full_name": "PP - FILM TQ",
+    "current_price": "165.00",
+    "price_trend": [
+      165,
+      165,
+      165,
+      165,
+      165,
+      165,
+      165
+    ]
+  },
+  {
+    "id": 290,
+    "product_name": "PP NON-WOVEN HALDIA",
+    "product_grade": "F135 - 35 MFI",
+    "category_full_name": "PP - NON-WOVEN",
+    "current_price": "97.50",
+    "price_trend": [
+      97.5,
+      97.5,
+      97.5,
+      97.5,
+      97.5,
+      97.5,
+      97.5
+    ]
+  },
+  {
+    "id": 291,
+    "product_name": "PPCP HALDIA",
+    "product_grade": "M307 - 7 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "131.00",
+    "price_trend": [
+      131,
+      131,
+      131,
+      131,
+      131,
+      131,
+      131
+    ]
+  },
+  {
+    "id": 292,
+    "product_name": "PPCP BATTERY HALDIA",
+    "product_grade": "M310 - 10 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "143.00",
+    "price_trend": [
+      143,
+      143,
+      143,
+      143,
+      143,
+      143,
+      143
+    ]
+  },
+  {
+    "id": 293,
+    "product_name": "PPCP HALDIA",
+    "product_grade": "M311T - 10 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 294,
+    "product_name": "PPCP HIGH MFI HALDIA",
+    "product_grade": "M340 - 40 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "143.00",
+    "price_trend": [
+      143,
+      143,
+      143,
+      143,
+      143,
+      143,
+      143
+    ]
+  },
+  {
+    "id": 295,
+    "product_name": "PPCP HIGH MFI HALDIA",
+    "product_grade": "M365 - 65 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "140.00",
+    "price_trend": [
+      135,
+      132,
+      135,
+      135,
+      135,
+      140,
+      140
+    ]
+  },
+  {
+    "id": 296,
+    "product_name": "PP RANDM BLOW HALDIA",
+    "product_grade": "B202S - 1.9 MFI",
+    "category_full_name": "PP - RANDOM BLOW",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 297,
+    "product_name": "PP RANDOM HALDIA",
+    "product_grade": "M212S - 12 MFI",
+    "category_full_name": "PP - RANDOM",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 298,
+    "product_name": "LL DRIP PIPE HALDIA",
+    "product_grade": "71601D - 1 MFI",
+    "category_full_name": "LL - DRIP",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 299,
+    "product_name": "LL LAMINATION HALDIA",
+    "product_grade": "72307E - 7 MFI",
+    "category_full_name": "LL - LAMINATION",
+    "current_price": "138.00",
+    "price_trend": [
+      135,
+      135,
+      135,
+      135,
+      136,
+      136,
+      136
+    ]
+  },
+  {
+    "id": 300,
+    "product_name": "LL ROTO HALDIA",
+    "product_grade": "73204T - 5 MFI",
+    "category_full_name": "LL - ROTO",
+    "current_price": "139.50",
+    "price_trend": [
+      139.5,
+      139.5,
+      139.5,
+      139.5,
+      139.5,
+      139.5,
+      139.5
+    ]
+  },
+  {
+    "id": 301,
+    "product_name": "LL ROTO HALDIA",
+    "product_grade": "73005T - 5 MFI",
+    "category_full_name": "LL - ROTO",
+    "current_price": "132.00",
+    "price_trend": [
+      126,
+      132,
+      132,
+      132,
+      132,
+      132,
+      132
+    ]
+  },
+  {
+    "id": 302,
+    "product_name": "HD MONOFILA HALDIA",
+    "product_grade": "T10/ T10S - 1.1 MFI",
+    "category_full_name": "HD - RAFFIA",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 303,
+    "product_name": "HD IM CAPS HALDIA",
+    "product_grade": "M5005L - 4.5 MFI",
+    "category_full_name": "HD - COMPRESSION MOLDING",
+    "current_price": "97.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 304,
+    "product_name": "HD IM UV HALDIA",
+    "product_grade": "M6007LU - 7.5 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "90.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 305,
+    "product_name": "HD IM HALDIA",
+    "product_grade": "M5025L - 30 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 306,
+    "product_name": "HD BLOW MBM HALDIA",
+    "product_grade": "B5500 - 0.35 (5kg) MFI",
+    "category_full_name": "HD - MEDIUM BLOW (MBM)",
+    "current_price": "132.00",
+    "price_trend": [
+      132,
+      132,
+      132,
+      132,
+      132,
+      132,
+      132
+    ]
+  },
+  {
+    "id": 307,
+    "product_name": "HD BLOW HALDIA",
+    "product_grade": "E5201S - HIGH ESCR - 0.35 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "156.00",
+    "price_trend": [
+      156,
+      156,
+      156,
+      156,
+      156,
+      156,
+      156
+    ]
+  },
+  {
+    "id": 308,
+    "product_name": "HD DCW PIPE HALDIA",
+    "product_grade": "E5201 - 0.35 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "156.00",
+    "price_trend": [
+      156,
+      156,
+      156,
+      156,
+      156,
+      156,
+      156
+    ]
+  },
+  {
+    "id": 309,
+    "product_name": "HD RAFFIA HALDIA",
+    "product_grade": "R5801 - 0.5 MFI",
+    "category_full_name": "HD - RAFFIA",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 310,
+    "product_name": "HM HALDIA",
+    "product_grade": "F5400 - 0.09 MFI",
+    "category_full_name": "HD - HM",
+    "current_price": "139.00",
+    "price_trend": [
+      136,
+      136,
+      136,
+      136,
+      136,
+      142,
+      139
+    ]
+  },
+  {
+    "id": 311,
+    "product_name": "HD EXTRUSION HALDIA",
+    "product_grade": "T6 - 0.5 MFI",
+    "category_full_name": "HD - FILM",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 312,
+    "product_name": "HD PIPE PE-63 HALDIA",
+    "product_grade": "P5200 - 0.80 (5kg) MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": "95.50",
+    "price_trend": [
+      95.5,
+      95.5,
+      95.5,
+      95.5,
+      95.5,
+      95.5,
+      95.5
+    ]
+  },
+  {
+    "id": 313,
+    "product_name": "HD PIPE PE-80 HALDIA",
+    "product_grade": "P5100 - 0.5 (5kg) MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": "145.00",
+    "price_trend": [
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145
+    ]
+  },
+  {
+    "id": 314,
+    "product_name": "HD PIPE PE100 HALDIA",
+    "product_grade": "P5300 - 0.25 (5kg) MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": null,
+    "price_trend": [
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145
+    ]
+  },
+  {
+    "id": 315,
+    "product_name": "HD PE-63 UV HALDIA",
+    "product_grade": "P5200UV - 0.80 (5kg) MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 316,
+    "product_name": "LD LAMINATION HANWHA",
+    "product_grade": "955 - 7.7 MFI",
+    "category_full_name": "LD - LAMINATION",
+    "current_price": "155.00",
+    "price_trend": [
+      155,
+      155,
+      155,
+      155,
+      155,
+      155,
+      155
+    ]
+  },
+  {
+    "id": 317,
+    "product_name": "PP RIL",
+    "product_grade": "H110MA - 11 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "143.00",
+    "price_trend": [
+      131,
+      141,
+      141,
+      141,
+      142,
+      140,
+      140
+    ]
+  },
+  {
+    "id": 318,
+    "product_name": "HD CAPS BOROUGE",
+    "product_grade": "MB6562 - 1.5 MFI",
+    "category_full_name": "HD - COMPRESSION MOLDING",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 319,
+    "product_name": "HD FILM RIL",
+    "product_grade": "F46003 - 0.3 MFI",
+    "category_full_name": "HD - FILM",
+    "current_price": "137.00",
+    "price_trend": [
+      137,
+      137,
+      137,
+      137,
+      137,
+      138,
+      137
+    ]
+  },
+  {
+    "id": 320,
+    "product_name": "PP RAFFIA MRPL",
+    "product_grade": "HR003",
+    "category_full_name": "PP - RAFFIA",
+    "current_price": "95.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 321,
+    "product_name": "PP FILM TQ MRPL",
+    "product_grade": "HF010 - 10 MFI",
+    "category_full_name": "PP - FILM TQ",
+    "current_price": "87.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 322,
+    "product_name": "PP LAM MRPL",
+    "product_grade": "HY035R - 35 MFI",
+    "category_full_name": "PP - LAMINATION",
+    "current_price": "153.50",
+    "price_trend": [
+      153.5,
+      153.5,
+      153.5,
+      153.5,
+      153.5,
+      153.5,
+      153.5
+    ]
+  },
+  {
+    "id": 323,
+    "product_name": "LL SLIP RIL",
+    "product_grade": "JF19010 - 1 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "128.50",
+    "price_trend": [
+      123,
+      122,
+      124,
+      124,
+      126,
+      127.5,
+      128
+    ]
+  },
+  {
+    "id": 324,
+    "product_name": "LL NON-SLIP RIL",
+    "product_grade": "18010 - 1 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "128.00",
+    "price_trend": [
+      121,
+      123,
+      123,
+      123,
+      126,
+      125,
+      128
+    ]
+  },
+  {
+    "id": 325,
+    "product_name": "PP RANDOM BOROUGE",
+    "product_grade": "RE420MO - 13 MFI",
+    "category_full_name": "PP - RANDOM",
+    "current_price": "145.00",
+    "price_trend": [
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145
+    ]
+  },
+  {
+    "id": 326,
+    "product_name": "PPCP HALDIA POWDER ",
+    "product_grade": "312 POWDER",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 327,
+    "product_name": "PP HIGH MELT RIL",
+    "product_grade": "AM650N - 65 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "152.00",
+    "price_trend": [
+      148,
+      148,
+      148,
+      148,
+      148,
+      152,
+      152
+    ]
+  },
+  {
+    "id": 328,
+    "product_name": "PP RANDOM BLOW RIL",
+    "product_grade": "SR20NC - 1.9 MFI",
+    "category_full_name": "PP - RANDOM BLOW",
+    "current_price": "150.00",
+    "price_trend": [
+      145,
+      145,
+      146,
+      146,
+      147,
+      150,
+      150
+    ]
+  },
+  {
+    "id": 329,
+    "product_name": "PPCP OG",
+    "product_grade": "PLAIN BAGS",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "96.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 330,
+    "product_name": "PP OG",
+    "product_grade": "PLAIN BAGS",
+    "category_full_name": "PP - MOLDING",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 331,
+    "product_name": "HD MOLDING HMEL",
+    "product_grade": "M0861S - 8 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": null,
+    "price_trend": [
+      136,
+      136,
+      136,
+      136,
+      136,
+      136,
+      136
+    ]
+  },
+  {
+    "id": 332,
+    "product_name": "HM LUBAN",
+    "product_grade": "DGDX 6097 - 0.05 MFI",
+    "category_full_name": "HD - HM",
+    "current_price": "93.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 333,
+    "product_name": "PVC K67 CHINA",
+    "product_grade": "HT-1000",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "86.25",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 334,
+    "product_name": "PVC K67 CHINA",
+    "product_grade": "JL-1000",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "72.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 335,
+    "product_name": "PVC K67 TIANJIN",
+    "product_grade": "DG-1000S",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "87.00",
+    "price_trend": [
+      87,
+      87,
+      87,
+      87,
+      87,
+      87,
+      87
+    ]
+  },
+  {
+    "id": 336,
+    "product_name": "PVC K67 TIANJIN",
+    "product_grade": "DG-1000K",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "68.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 337,
+    "product_name": "PVC K67 HYGAIN",
+    "product_grade": "HS-1000R",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "78.25",
+    "price_trend": [
+      78.25,
+      78.25,
+      78.25,
+      78.25,
+      78.25,
+      78.25,
+      78.25
+    ]
+  },
+  {
+    "id": 338,
+    "product_name": "PVC K67 FORMOSA",
+    "product_grade": "S65D",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": null,
+    "price_trend": [
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75
+    ]
+  },
+  {
+    "id": 339,
+    "product_name": "PVC K67 FORMOSA",
+    "product_grade": "S65",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "82.00",
+    "price_trend": [
+      82,
+      82,
+      82,
+      82,
+      82,
+      82,
+      82
+    ]
+  },
+  {
+    "id": 340,
+    "product_name": "PVC K67 HANWHA",
+    "product_grade": "P1000",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "87.50",
+    "price_trend": [
+      78,
+      78,
+      78,
+      78,
+      78,
+      78,
+      87.5
+    ]
+  },
+  {
+    "id": 341,
+    "product_name": "PVC K67 HANWHA",
+    "product_grade": "P1000SB",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "70.75",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 342,
+    "product_name": "PVC K67 HANWHA",
+    "product_grade": "P1000F",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "74.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 343,
+    "product_name": "PVC K67 CHINA SG5",
+    "product_grade": "ERDOS",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "84.50",
+    "price_trend": [
+      77,
+      83.75,
+      83.75,
+      83.75,
+      83.75,
+      83.75,
+      84.5
+    ]
+  },
+  {
+    "id": 344,
+    "product_name": "PVC K67 CHINA SG5",
+    "product_grade": "CNSG JILANTAI",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "75.50",
+    "price_trend": [
+      75.5,
+      75.5,
+      75.5,
+      75.5,
+      75.5,
+      75.5,
+      75.5
+    ]
+  },
+  {
+    "id": 345,
+    "product_name": "PVC K67 CHINA SG5",
+    "product_grade": "DONGXING",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "84.50",
+    "price_trend": [
+      75.5,
+      83.5,
+      83.5,
+      83.5,
+      83.5,
+      83.5,
+      84.5
+    ]
+  },
+  {
+    "id": 346,
+    "product_name": "PVC K67 CHINA SG5",
+    "product_grade": "YIHUA",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "84.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 347,
+    "product_name": "PVC K67 CHINA SG5",
+    "product_grade": "SHANXI BEIYUAN",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "84.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      84.5
+    ]
+  },
+  {
+    "id": 348,
+    "product_name": "PVC K67 CHINA SG5",
+    "product_grade": "ZHONGTAI",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "86.00",
+    "price_trend": [
+      79,
+      79,
+      79,
+      79,
+      79,
+      79,
+      79
+    ]
+  },
+  {
+    "id": 349,
+    "product_name": "PVC K67 CHINA SG5",
+    "product_grade": "XINFA",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "86.00",
+    "price_trend": [
+      81.5,
+      84,
+      84,
+      84,
+      84,
+      84,
+      85.5
+    ]
+  },
+  {
+    "id": 350,
+    "product_name": "PVC K67 ASNYL",
+    "product_grade": "FJ65R",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "69.75",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 351,
+    "product_name": "PVC K67 TPC THAI",
+    "product_grade": "SG660",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "106.50",
+    "price_trend": [
+      106.5,
+      106.5,
+      106.5,
+      106.5,
+      106.5,
+      106.5,
+      106.5
+    ]
+  },
+  {
+    "id": 352,
+    "product_name": "PVC K67 TPC VINA",
+    "product_grade": "SP660",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "66.00",
+    "price_trend": [
+      66,
+      66,
+      66,
+      66,
+      66,
+      66,
+      66
+    ]
+  },
+  {
+    "id": 353,
+    "product_name": "PVC K67 TPC VINA",
+    "product_grade": "SG660",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 354,
+    "product_name": "PVC K67 LG",
+    "product_grade": "LS100",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "75.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 355,
+    "product_name": "PVC K67 LG",
+    "product_grade": "LS100E",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 356,
+    "product_name": "PVC K67 LG",
+    "product_grade": "LS100Y",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "93.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 357,
+    "product_name": "PVC K67 CHINA SG5",
+    "product_grade": "EASTHOPE",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "84.50",
+    "price_trend": [
+      81,
+      81,
+      81,
+      81,
+      81,
+      81,
+      84.5
+    ]
+  },
+  {
+    "id": 358,
+    "product_name": "LL ROTO GAIL OG",
+    "product_grade": "R36 OG",
+    "category_full_name": "LL - ROTO",
+    "current_price": null,
+    "price_trend": [
+      131,
+      131,
+      131,
+      131,
+      131,
+      131,
+      131
+    ]
+  },
+  {
+    "id": 359,
+    "product_name": "LL ROTO UV GAIL OG",
+    "product_grade": "R36UV OG",
+    "category_full_name": "LL - ROTO",
+    "current_price": "139.00",
+    "price_trend": [
+      139,
+      139,
+      139,
+      139,
+      139,
+      139,
+      139
+    ]
+  },
+  {
+    "id": 360,
+    "product_name": "LL MOLDING GAIL OG",
+    "product_grade": "I26500 OG",
+    "category_full_name": "LL - MOLDING",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 361,
+    "product_name": "HD MOLDING GAIL OG",
+    "product_grade": "i56200 OG - 20 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "123.50",
+    "price_trend": [
+      123.5,
+      123.5,
+      123.5,
+      123.5,
+      123.5,
+      123.5,
+      123.5
+    ]
+  },
+  {
+    "id": 362,
+    "product_name": "HD RAFFIA GAIL OG",
+    "product_grade": "Y50A010 OG - 1 MFI",
+    "category_full_name": "HD - RAFFIA",
+    "current_price": null,
+    "price_trend": [
+      140,
+      140,
+      140,
+      140,
+      140,
+      140,
+      140
+    ]
+  },
+  {
+    "id": 363,
+    "product_name": "HD FILM GAIL OG",
+    "product_grade": "E45 OG",
+    "category_full_name": "HD - FILM",
+    "current_price": "92.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 364,
+    "product_name": "HD RAFFIA GAIL OG",
+    "product_grade": "W50A009 OG - 0.9 MFI",
+    "category_full_name": "HD - RAFFIA",
+    "current_price": "87.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 365,
+    "product_name": "LL MOLDING IOCL",
+    "product_grade": "500M24A OG XMLL",
+    "category_full_name": "LL - MOLDING",
+    "current_price": null,
+    "price_trend": [
+      126,
+      126,
+      126,
+      126,
+      126,
+      126,
+      126
+    ]
+  },
+  {
+    "id": 366,
+    "product_name": "HD MOLDING IOCL OG",
+    "product_grade": "XMHD - 8mfi OG - 8 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "121.00",
+    "price_trend": [
+      121,
+      121,
+      121,
+      121,
+      121,
+      121,
+      121
+    ]
+  },
+  {
+    "id": 367,
+    "product_name": "PVC K60 FORMOSA",
+    "product_grade": "S60",
+    "category_full_name": "PVC - LOW K (K57)",
+    "current_price": "76.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 368,
+    "product_name": "PVC K57 TIANJIN",
+    "product_grade": "DG700",
+    "category_full_name": "PVC - LOW K (K57)",
+    "current_price": "71.00",
+    "price_trend": [
+      74,
+      74,
+      74,
+      74,
+      74,
+      74,
+      74
+    ]
+  },
+  {
+    "id": 369,
+    "product_name": "PVC K67 WESTLAKE",
+    "product_grade": "1230P",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "71.75",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 370,
+    "product_name": "PVC K67 OXIVINYLS",
+    "product_grade": "225P",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "81.50",
+    "price_trend": [
+      81.5,
+      81.5,
+      81.5,
+      81.5,
+      81.5,
+      81.5,
+      81.5
+    ]
+  },
+  {
+    "id": 371,
+    "product_name": "PVC K67 CHINA SG5",
+    "product_grade": "JUNZHENG",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "77.00",
+    "price_trend": [
+      77,
+      77,
+      77,
+      77,
+      77,
+      77,
+      77
+    ]
+  },
+  {
+    "id": 372,
+    "product_name": "PP FILM TQ RIL",
+    "product_grade": "H100EY - 11 MFI",
+    "category_full_name": "PP - FILM TQ",
+    "current_price": "146.00",
+    "price_trend": [
+      166,
+      166,
+      166,
+      166,
+      166,
+      147,
+      146
+    ]
+  },
+  {
+    "id": 373,
+    "product_name": "LL GAIL OG",
+    "product_grade": "D22 OG - 1 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "82.75",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 374,
+    "product_name": "HD BLOW BIPC",
+    "product_grade": "HB0035 - 0.35 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "92.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 375,
+    "product_name": "PVC K58 LG",
+    "product_grade": "TL-700",
+    "category_full_name": "PVC - LOW K (K57)",
+    "current_price": "82.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 376,
+    "product_name": "PPCP BASELL",
+    "product_grade": "548P - 16 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "100.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 377,
+    "product_name": "HM MARLEX",
+    "product_grade": "TR-144 - 0.18 MFI",
+    "category_full_name": "HD - HM",
+    "current_price": "98.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 378,
+    "product_name": "PP RANDOM BLOW RIL",
+    "product_grade": "C015EG - 1.8 MFI",
+    "category_full_name": "PP - RANDOM BLOW",
+    "current_price": "142.00",
+    "price_trend": [
+      142,
+      142,
+      142,
+      142,
+      142,
+      142,
+      142
+    ]
+  },
+  {
+    "id": 379,
+    "product_name": "PVC K67 DCM",
+    "product_grade": "SR10A",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "85.50",
+    "price_trend": [
+      81.5,
+      85,
+      85,
+      85,
+      85,
+      85,
+      85.5
+    ]
+  },
+  {
+    "id": 380,
+    "product_name": "PP LAMINATION EXXON",
+    "product_grade": "3155 - 36 MFI",
+    "category_full_name": "PP - LAMINATION",
+    "current_price": "163.50",
+    "price_trend": [
+      163.5,
+      163.5,
+      163.5,
+      163.5,
+      163.5,
+      163.5,
+      163.5
+    ]
+  },
+  {
+    "id": 381,
+    "product_name": "PP FILM BOROUGE",
+    "product_grade": "HD631CF - 10 MFI",
+    "category_full_name": "PP - FILM TQ",
+    "current_price": "96.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 382,
+    "product_name": "PP NONWOVEN ORIENTAL",
+    "product_grade": "S2040 - 38 MFI",
+    "category_full_name": "PP - NON-WOVEN",
+    "current_price": "101.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 383,
+    "product_name": "PP NON-WOVEN BOROUGE",
+    "product_grade": "BH975MO - 38 MFI",
+    "category_full_name": "PP - NON-WOVEN",
+    "current_price": "104.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 384,
+    "product_name": "LD LAMINATION SABIC",
+    "product_grade": "7019EC - 7 MFI",
+    "category_full_name": "LD - LAMINATION",
+    "current_price": "165.00",
+    "price_trend": [
+      154,
+      158,
+      160,
+      160,
+      160,
+      160,
+      165
+    ]
+  },
+  {
+    "id": 385,
+    "product_name": "LL METALOCENE BOROUG",
+    "product_grade": "FK1820 NON-SLIP - 1.5 MFI",
+    "category_full_name": "LL - METALLOCENE",
+    "current_price": "97.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 386,
+    "product_name": "LL METALOCENE BOROUG",
+    "product_grade": "FK1828 SLIP - 1.5 MFI",
+    "category_full_name": "LL - METALLOCENE",
+    "current_price": "113.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 387,
+    "product_name": "LD HEAVY DUTY RIL",
+    "product_grade": "J22FA002E - 0.5 MFI",
+    "category_full_name": "LD - HEAVY DUTY",
+    "current_price": "173.00",
+    "price_trend": [
+      173,
+      173,
+      173,
+      173,
+      173,
+      173,
+      173
+    ]
+  },
+  {
+    "id": 388,
+    "product_name": "PP THERMO RIL",
+    "product_grade": "H050MN - 3.4 MFI",
+    "category_full_name": "PP - THERMOFORMING",
+    "current_price": null,
+    "price_trend": [
+      137,
+      137,
+      137,
+      137,
+      137,
+      137,
+      137
+    ]
+  },
+  {
+    "id": 389,
+    "product_name": "PPCP HIGH-FLOW RIL",
+    "product_grade": "B400MN - 38 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "138.00",
+    "price_trend": [
+      138,
+      138,
+      138,
+      138,
+      138,
+      138,
+      138
+    ]
+  },
+  {
+    "id": 390,
+    "product_name": "PPCP RIL",
+    "product_grade": "MI3530 - 3 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "153.00",
+    "price_trend": [
+      137,
+      137,
+      137,
+      137,
+      153,
+      153,
+      153
+    ]
+  },
+  {
+    "id": 391,
+    "product_name": "LD FILM RIL",
+    "product_grade": "J24FX012 - 2 MFI",
+    "category_full_name": "LD - GENERAL PURPOSE",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 392,
+    "product_name": "LD FILM RIL",
+    "product_grade": "J24FX030 - 3 MFI",
+    "category_full_name": "LD - GENERAL PURPOSE",
+    "current_price": "156.00",
+    "price_trend": [
+      154,
+      154,
+      154,
+      154,
+      154,
+      154,
+      155
+    ]
+  },
+  {
+    "id": 393,
+    "product_name": "PP EXXON",
+    "product_grade": "1304 - 13 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "96.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 394,
+    "product_name": "EVA 28% LG",
+    "product_grade": "EA28025 - 25 MFI",
+    "category_full_name": "EVA - VA-28%",
+    "current_price": "170.00",
+    "price_trend": [
+      170,
+      170,
+      170,
+      170,
+      170,
+      170,
+      170
+    ]
+  },
+  {
+    "id": 395,
+    "product_name": "HD BLOW GAIL",
+    "product_grade": "B56A003A - 0.35 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "98.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 396,
+    "product_name": "LD LAM ASPC",
+    "product_grade": "1969 - 7 MFI",
+    "category_full_name": "LD - LAMINATION",
+    "current_price": "155.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 397,
+    "product_name": "LD HEAVY DUTY ASPC",
+    "product_grade": "LFI2130 - 0.3 MFI",
+    "category_full_name": "LD - HEAVY DUTY",
+    "current_price": "128.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 398,
+    "product_name": "LD FILM/FOAM PGPICC",
+    "product_grade": "LH0075 - 0.75 MFI",
+    "category_full_name": "LD - EXTRUSION/ FOAM",
+    "current_price": "123.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 399,
+    "product_name": "EVA 18% HANWHA",
+    "product_grade": "E180F - 2 MFI",
+    "category_full_name": "EVA - VA-18%",
+    "current_price": "81.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 400,
+    "product_name": "EVA 18% SABIC",
+    "product_grade": "2518DF - 2.5 MFI",
+    "category_full_name": "EVA - VA-18%",
+    "current_price": "123.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 401,
+    "product_name": "LL FILM OG",
+    "product_grade": "PLAIN BAG",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "95.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 402,
+    "product_name": "PP MOLDING POWDER OG",
+    "product_grade": "USA PLAIN BAGS",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "88.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 403,
+    "product_name": "LL MOLDING HMEL OG",
+    "product_grade": "OGLLMS",
+    "category_full_name": "LL - MOLDING",
+    "current_price": "133.00",
+    "price_trend": [
+      130,
+      130,
+      128.5,
+      128.5,
+      128.5,
+      133,
+      133
+    ]
+  },
+  {
+    "id": 404,
+    "product_name": "LL ROTO OG HMEL",
+    "product_grade": "ROTO OG",
+    "category_full_name": "LL - ROTO",
+    "current_price": "96.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 405,
+    "product_name": "HD MOLDING OG HMEL",
+    "product_grade": "HD OG",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "85.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 406,
+    "product_name": "HD MOLDING OG USA",
+    "product_grade": "HILENE 8006 - 8 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "82.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 407,
+    "product_name": "HD MOLDING OG IOCL",
+    "product_grade": "IOCL",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "92.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 408,
+    "product_name": "PVC K67 CHINA SG5",
+    "product_grade": "BINGCHENG",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "73.00",
+    "price_trend": [
+      73,
+      73,
+      73,
+      73,
+      73,
+      73,
+      73
+    ]
+  },
+  {
+    "id": 409,
+    "product_name": "EVA 19% HANWHA",
+    "product_grade": "2319 - 2.5 MFI",
+    "category_full_name": "EVA - VA-19%",
+    "current_price": null,
+    "price_trend": [
+      130.5,
+      130.5,
+      130.5,
+      130.5,
+      130.5,
+      130.5,
+      130.5
+    ]
+  },
+  {
+    "id": 410,
+    "product_name": "PP RAFFIA RIL",
+    "product_grade": "H030SG - 3.4 MFI",
+    "category_full_name": "PP - RAFFIA",
+    "current_price": "135.00",
+    "price_trend": [
+      126,
+      133.5,
+      133.5,
+      133.5,
+      133.5,
+      133.5,
+      135
+    ]
+  },
+  {
+    "id": 411,
+    "product_name": "PP RAFFIA BASELL",
+    "product_grade": "HOG",
+    "category_full_name": "PP - RAFFIA",
+    "current_price": "93.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 412,
+    "product_name": "HD HM SABIC",
+    "product_grade": "F00851 - 0.3 MFI",
+    "category_full_name": "HD - HM",
+    "current_price": "96.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 413,
+    "product_name": "PPCP IOCL",
+    "product_grade": "5080MG - 10 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 414,
+    "product_name": "LL NON-SLIP GAIL",
+    "product_grade": "F18A020U B - 2 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "126.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      126,
+      126
+    ]
+  },
+  {
+    "id": 415,
+    "product_name": "PP RANDOM HMEL",
+    "product_grade": "RM12CR - 12 MFI",
+    "category_full_name": "PP - RANDOM",
+    "current_price": "150.00",
+    "price_trend": [
+      142,
+      144.5,
+      144,
+      144,
+      147,
+      150.5,
+      152
+    ]
+  },
+  {
+    "id": 416,
+    "product_name": "LD GP SLIP BASELL",
+    "product_grade": "2426K - 4 MFI",
+    "category_full_name": "LD - GENERAL PURPOSE",
+    "current_price": "117.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 417,
+    "product_name": "LL METALLOCENE EXXON",
+    "product_grade": "SLIP - 1018MK - 1 MFI",
+    "category_full_name": "LL - METALLOCENE",
+    "current_price": "150.00",
+    "price_trend": [
+      150,
+      150,
+      150,
+      150,
+      150,
+      150,
+      150
+    ]
+  },
+  {
+    "id": 418,
+    "product_name": "EVA 18% POLENE",
+    "product_grade": "8038 - 3 MFI",
+    "category_full_name": "EVA - VA-18%",
+    "current_price": "141.00",
+    "price_trend": [
+      137.5,
+      138,
+      138,
+      138,
+      141,
+      141,
+      141
+    ]
+  },
+  {
+    "id": 419,
+    "product_name": "LL NON-SLIP RIL",
+    "product_grade": "18020 - 2 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "129.00",
+    "price_trend": [
+      121,
+      122.5,
+      123,
+      123,
+      126,
+      127,
+      127.5
+    ]
+  },
+  {
+    "id": 420,
+    "product_name": "PP MOLDING HMEL",
+    "product_grade": "OG",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "90.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 421,
+    "product_name": "PPCP HMEL",
+    "product_grade": "CM25NR - 25 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "140.00",
+    "price_trend": [
+      132,
+      133,
+      134,
+      134,
+      137,
+      139,
+      139
+    ]
+  },
+  {
+    "id": 422,
+    "product_name": "PPCP HMEL",
+    "product_grade": "CM65NR - 65 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "141.00",
+    "price_trend": [
+      131,
+      131,
+      131,
+      131,
+      131,
+      139,
+      139.5
+    ]
+  },
+  {
+    "id": 423,
+    "product_name": "LD GP SLIP BOROUGE",
+    "product_grade": "FT6236 - 2 MFI",
+    "category_full_name": "LD - GENERAL PURPOSE",
+    "current_price": "155.00",
+    "price_trend": [
+      155,
+      155,
+      155,
+      155,
+      155,
+      155,
+      155
+    ]
+  },
+  {
+    "id": 424,
+    "product_name": "PPCP HMEL NON-PRIME",
+    "product_grade": "CM12 NP - 12 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 425,
+    "product_name": "PPCP HMEL NON-PRIME",
+    "product_grade": "NM08 - 8 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "142.00",
+    "price_trend": [
+      142,
+      142,
+      142,
+      142,
+      142,
+      142,
+      142
+    ]
+  },
+  {
+    "id": 426,
+    "product_name": "PP BOROUGE OG",
+    "product_grade": "HOE",
+    "category_full_name": "PP - MOLDING",
+    "current_price": null,
+    "price_trend": [
+      123.5,
+      123.5,
+      123.5,
+      123.5,
+      123.5,
+      123.5,
+      123.5
+    ]
+  },
+  {
+    "id": 427,
+    "product_name": "PP BOROUGE OG",
+    "product_grade": "RCE",
+    "category_full_name": "PP - MOLDING",
+    "current_price": null,
+    "price_trend": [
+      123,
+      123,
+      123,
+      123,
+      123,
+      123,
+      123
+    ]
+  },
+  {
+    "id": 428,
+    "product_name": "PP RIL",
+    "product_grade": "AM120N - 12 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "136.00",
+    "price_trend": [
+      128,
+      129,
+      129,
+      129,
+      133,
+      135,
+      135
+    ]
+  },
+  {
+    "id": 429,
+    "product_name": "HM EQUATE",
+    "product_grade": "EGDA-6888 - 0.1 MFI",
+    "category_full_name": "HD - HM",
+    "current_price": "92.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 430,
+    "product_name": "HD BLOW GAIL OG",
+    "product_grade": "B52 OG",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "129.00",
+    "price_trend": [
+      130,
+      129,
+      129,
+      129,
+      129,
+      129,
+      129
+    ]
+  },
+  {
+    "id": 431,
+    "product_name": "LL MOLDING EXXON",
+    "product_grade": "6101 - 20 MFI",
+    "category_full_name": "LL - MOLDING",
+    "current_price": "100.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 432,
+    "product_name": "LL METALLOCENE HMEL",
+    "product_grade": "SLIP F0120LM - 1 MFI",
+    "category_full_name": "LL - METALLOCENE",
+    "current_price": null,
+    "price_trend": [
+      132,
+      132,
+      132,
+      132,
+      132,
+      132,
+      132
+    ]
+  },
+  {
+    "id": 433,
+    "product_name": "LL METALLOCENE HMEL",
+    "product_grade": "NON SLIP F0118LM - 1 MFI",
+    "category_full_name": "LL - METALLOCENE",
+    "current_price": "136.00",
+    "price_trend": [
+      134.5,
+      134.5,
+      134.5,
+      134.5,
+      137.5,
+      138,
+      136
+    ]
+  },
+  {
+    "id": 434,
+    "product_name": "EVA SONALENE",
+    "product_grade": "SONALENE",
+    "category_full_name": "EVA - VA-18%",
+    "current_price": "130.00",
+    "price_trend": [
+      130.5,
+      130.5,
+      130.5,
+      130.5,
+      131,
+      130,
+      130
+    ]
+  },
+  {
+    "id": 435,
+    "product_name": "PPCP HMEL",
+    "product_grade": "CM40RR - 40 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "141.00",
+    "price_trend": [
+      133,
+      134,
+      135,
+      135,
+      140,
+      139,
+      139.5
+    ]
+  },
+  {
+    "id": 436,
+    "product_name": "PP LAM RIL",
+    "product_grade": "H350EC - 38 MFI",
+    "category_full_name": "PP - LAMINATION",
+    "current_price": null,
+    "price_trend": [
+      163,
+      163,
+      163,
+      163,
+      163,
+      163,
+      163
+    ]
+  },
+  {
+    "id": 437,
+    "product_name": "HD PE-100 BOROUGE",
+    "product_grade": "HE3490LS - 0.25 MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": "94.50",
+    "price_trend": [
+      94.5,
+      94.5,
+      94.5,
+      94.5,
+      94.5,
+      94.5,
+      94.5
+    ]
+  },
+  {
+    "id": 438,
+    "product_name": "PVC K67 CHINA",
+    "product_grade": "JH-1000",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "76.00",
+    "price_trend": [
+      76,
+      76,
+      76,
+      76,
+      76,
+      76,
+      76
+    ]
+  },
+  {
+    "id": 439,
+    "product_name": "PP RAFFIA NAYARA",
+    "product_grade": "H036RG - 3.6 MFI",
+    "category_full_name": "PP - RAFFIA",
+    "current_price": "135.00",
+    "price_trend": [
+      125.5,
+      125.5,
+      132,
+      132,
+      132,
+      132,
+      135
+    ]
+  },
+  {
+    "id": 440,
+    "product_name": "PP NAYARA",
+    "product_grade": "H120IG - 12 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "135.00",
+    "price_trend": [
+      123,
+      123,
+      132,
+      132,
+      135,
+      135,
+      135
+    ]
+  },
+  {
+    "id": 441,
+    "product_name": "PPCP IOCL ",
+    "product_grade": "5200MG - 20 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "105.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 442,
+    "product_name": "PPCP IOCL",
+    "product_grade": "5120MG - 12 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 443,
+    "product_name": "LD LAMINATION TITAN",
+    "product_grade": "801YY - 7 MFI",
+    "category_full_name": "LD - LAMINATION",
+    "current_price": "160.00",
+    "price_trend": [
+      157,
+      157,
+      157,
+      157,
+      160,
+      160,
+      160
+    ]
+  },
+  {
+    "id": 444,
+    "product_name": "EVA 19% BRASCHEM",
+    "product_grade": "3019PE - 2.5 MFI",
+    "category_full_name": "EVA - VA-19%",
+    "current_price": "108.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 445,
+    "product_name": "EVA 18% MARPOL",
+    "product_grade": "1802 - 2 MFI",
+    "category_full_name": "EVA - VA-18%",
+    "current_price": "124.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 446,
+    "product_name": "LL SLIP RIL",
+    "product_grade": "20FS010 - 1 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": null,
+    "price_trend": [
+      117,
+      117,
+      117,
+      117,
+      117,
+      117,
+      117
+    ]
+  },
+  {
+    "id": 447,
+    "product_name": "LD HEAVY DUTY DOW",
+    "product_grade": "150E - 0.25 MFI",
+    "category_full_name": "LD - HEAVY DUTY",
+    "current_price": "123.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 448,
+    "product_name": "LL NON-SLIP RIL",
+    "product_grade": "FA010 - 1 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "93.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 449,
+    "product_name": "PPCP HMEL",
+    "product_grade": "NM10TE - 10 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "98.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 450,
+    "product_name": "LD HEAVY DUTY LOTRNE",
+    "product_grade": "FB3003 - 0.3 MFI",
+    "category_full_name": "LD - HEAVY DUTY",
+    "current_price": "121.00",
+    "price_trend": [
+      121,
+      121,
+      121,
+      121,
+      121,
+      121,
+      121
+    ]
+  },
+  {
+    "id": 451,
+    "product_name": "PP RIL OG",
+    "product_grade": "ULF",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "98.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 452,
+    "product_name": "LD LAMINATION DOW",
+    "product_grade": "722 - 8 MFI",
+    "category_full_name": "LD - LAMINATION",
+    "current_price": "119.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 453,
+    "product_name": "PPCP RIL",
+    "product_grade": "D120MA - 12 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "149.00",
+    "price_trend": [
+      153,
+      153,
+      153,
+      153,
+      153,
+      153,
+      149
+    ]
+  },
+  {
+    "id": 454,
+    "product_name": "EVA 19% GREENFLEX",
+    "product_grade": "ML50F - 2.5 MFI",
+    "category_full_name": "EVA - VA-18%",
+    "current_price": "112.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 455,
+    "product_name": "HD PIPE PE-63 RIL",
+    "product_grade": "46GP009 - 0.9 (5Kg) MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": "90.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 456,
+    "product_name": "PPCP SCG",
+    "product_grade": "P640J - 10 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "99.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 457,
+    "product_name": "HD FILM RIL",
+    "product_grade": "S42005 - 0.55 MFI",
+    "category_full_name": "HD - FILM",
+    "current_price": "132.00",
+    "price_trend": [
+      132,
+      133,
+      133,
+      133,
+      132,
+      133,
+      133
+    ]
+  },
+  {
+    "id": 458,
+    "product_name": "HD RAFFIA HMEL",
+    "product_grade": "R0151D - 0.55 MFI",
+    "category_full_name": "HD - RAFFIA",
+    "current_price": "91.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 459,
+    "product_name": "PP RANDOM IOCL",
+    "product_grade": "2300MC - 30 MFI",
+    "category_full_name": "PP - RANDOM",
+    "current_price": "165.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 460,
+    "product_name": "PP OG",
+    "product_grade": "POWDER",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "88.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 461,
+    "product_name": "LL MOLDING OG",
+    "product_grade": "GRANULES",
+    "category_full_name": "LL - MOLDING",
+    "current_price": "102.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 462,
+    "product_name": "HDLL OG",
+    "product_grade": "HD-LL MIX",
+    "category_full_name": "HD - RAFFIA",
+    "current_price": "82.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 463,
+    "product_name": "LLHD OG",
+    "product_grade": "LL-HD MIX",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "82.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 464,
+    "product_name": "EVA OG",
+    "product_grade": "GRANULES",
+    "category_full_name": "EVA - VA-18%",
+    "current_price": "102.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 465,
+    "product_name": "HD MOLDING OG",
+    "product_grade": "GRANULES",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "85.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 466,
+    "product_name": "HD BLOW HMEL OG",
+    "product_grade": "OGHDBD",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "124.50",
+    "price_trend": [
+      124.5,
+      124.5,
+      124.5,
+      124.5,
+      124.5,
+      124.5,
+      124.5
+    ]
+  },
+  {
+    "id": 467,
+    "product_name": "PP MOLDING OG",
+    "product_grade": "GRANULES",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "92.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 468,
+    "product_name": "HD BLOW LUBAN",
+    "product_grade": "DMDA- 6200 - 0.4 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "159.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 469,
+    "product_name": "HM TITAN",
+    "product_grade": "7000F - 0.05 MFI",
+    "category_full_name": "HD - HM",
+    "current_price": "118.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 470,
+    "product_name": "HM LUBAN",
+    "product_grade": "DGDZ- 6095 - 0.05 MFI",
+    "category_full_name": "HD - HM",
+    "current_price": "92.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 471,
+    "product_name": "LD LAM EXXON",
+    "product_grade": "LD251 - 8 MFI",
+    "category_full_name": "LD - LAMINATION",
+    "current_price": "125.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 472,
+    "product_name": "PPCP BOROUGE",
+    "product_grade": "BF970MO - 20 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "134.00",
+    "price_trend": [
+      134,
+      134,
+      134,
+      134,
+      134,
+      134,
+      134
+    ]
+  },
+  {
+    "id": 473,
+    "product_name": "LL SLIP RIL",
+    "product_grade": "19020 - 2 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": null,
+    "price_trend": [
+      116,
+      116,
+      116,
+      116,
+      116,
+      116,
+      116
+    ]
+  },
+  {
+    "id": 474,
+    "product_name": "LD MILK BOROUGE",
+    "product_grade": "FT5230 - 0.75 MFI",
+    "category_full_name": "LD - MILK",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 475,
+    "product_name": "HD BLOW REPRO",
+    "product_grade": "BLACK - 1.5 - 2 MFI",
+    "category_full_name": "HD - REPROCESSED",
+    "current_price": "54.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 476,
+    "product_name": "HD BLOW REPRO",
+    "product_grade": "MILKY - 1.2-1.5 MFI",
+    "category_full_name": "HD - REPROCESSED",
+    "current_price": "61.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 477,
+    "product_name": "HD BLOW REPRO",
+    "product_grade": "NATURAL - 2 MFI",
+    "category_full_name": "HD - REPROCESSED",
+    "current_price": "68.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 478,
+    "product_name": "HD BLOW REPRO",
+    "product_grade": "BLUE - 1.5 - 2 MFI",
+    "category_full_name": "HD - REPROCESSED",
+    "current_price": "54.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 479,
+    "product_name": "HD BLOW REPRO",
+    "product_grade": "GREEN - 1.5 - 2 MFI",
+    "category_full_name": "HD - REPROCESSED",
+    "current_price": "54.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 480,
+    "product_name": "HD BLOW REPRO",
+    "product_grade": "RED - 1.5-2 MFI",
+    "category_full_name": "HD - REPROCESSED",
+    "current_price": "54.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 481,
+    "product_name": "HD BLOW REPRO",
+    "product_grade": "YELLOW - 1.5 - 2 MFI",
+    "category_full_name": "HD - REPROCESSED",
+    "current_price": "54.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 482,
+    "product_name": "HM TITAN",
+    "product_grade": "HF1881 - 0.2 MFI",
+    "category_full_name": "HD - HM",
+    "current_price": "92.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 483,
+    "product_name": "LD GP REPRO",
+    "product_grade": "TYRE PATTI YELLOW - 1-2 MFI",
+    "category_full_name": "LD - REPROCESSED ",
+    "current_price": "77.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 484,
+    "product_name": "LD GP REPRO",
+    "product_grade": "TYRE PATTI ORANGE - 1-2 MFI",
+    "category_full_name": "LD - REPROCESSED ",
+    "current_price": "77.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 485,
+    "product_name": "LD GP REPRO",
+    "product_grade": "TYRE PATTI BLUE - 1-2 MFI",
+    "category_full_name": "LD - REPROCESSED ",
+    "current_price": "77.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 486,
+    "product_name": "LD GP REPRO",
+    "product_grade": "TYRE PATTI GREEN - 1-2 MFI",
+    "category_full_name": "LD - REPROCESSED ",
+    "current_price": "77.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 487,
+    "product_name": "LD GP REPRO",
+    "product_grade": "TYRE PATTI MILKY - 1-2 MFI",
+    "category_full_name": "LD - REPROCESSED ",
+    "current_price": "79.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 488,
+    "product_name": "LD GP REPRO",
+    "product_grade": "TYRE PATTI GREY - 1-2 MFI",
+    "category_full_name": "LD - REPROCESSED ",
+    "current_price": "76.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 489,
+    "product_name": "LD GP REPRO",
+    "product_grade": "TYRE PATTI NATURAL HONEY - 1-2 MFI",
+    "category_full_name": "LD - REPROCESSED ",
+    "current_price": "81.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 490,
+    "product_name": "LD HEAVY DUTY REPRO",
+    "product_grade": "LTS NATURAL - 0.2 MFI",
+    "category_full_name": "LD - REPROCESSED ",
+    "current_price": "98.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 491,
+    "product_name": "LD HEAVY DUTY REPRO",
+    "product_grade": "MILKY - 0.3 MFI",
+    "category_full_name": "LD - REPROCESSED ",
+    "current_price": "81.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 492,
+    "product_name": "LD GP REPRO",
+    "product_grade": "BLACK - 1-2 MFI",
+    "category_full_name": "LD - REPROCESSED ",
+    "current_price": "71.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 493,
+    "product_name": "LD GP REPRO ",
+    "product_grade": "BLUE - 1-2 MFI",
+    "category_full_name": "LD - REPROCESSED ",
+    "current_price": "80.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 494,
+    "product_name": "LD GP REPRO",
+    "product_grade": "ZIPPER LAYER SHINER GREEN - 2 MFI",
+    "category_full_name": "LD - REPROCESSED ",
+    "current_price": "88.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 495,
+    "product_name": "LD GP REPRO",
+    "product_grade": "ZIPPER LAYER SHINER PINK - 2 MFI",
+    "category_full_name": "LD - REPROCESSED ",
+    "current_price": "88.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 496,
+    "product_name": "LD GP REPRO",
+    "product_grade": "ZIPPER LAYER SHINER BLUE - 2 MFI",
+    "category_full_name": "LD - REPROCESSED ",
+    "current_price": "88.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 497,
+    "product_name": "LD GP REPRO",
+    "product_grade": "ZIPPER LAYER SHINER RED - 2 MFI",
+    "category_full_name": "LD - REPROCESSED ",
+    "current_price": "88.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 498,
+    "product_name": "LD GP REPRO",
+    "product_grade": "ZIPPER MIX - 2 MFI",
+    "category_full_name": "LD - REPROCESSED ",
+    "current_price": "83.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 499,
+    "product_name": "LL DRIP RIL",
+    "product_grade": "E19010 - 1 MFI",
+    "category_full_name": "LL - DRIP",
+    "current_price": "126.00",
+    "price_trend": [
+      115,
+      115,
+      115,
+      115,
+      115,
+      126,
+      126
+    ]
+  },
+  {
+    "id": 500,
+    "product_name": "LL DRIP RIL",
+    "product_grade": "JD19010 - 1 MFI",
+    "category_full_name": "LL - DRIP",
+    "current_price": "133.00",
+    "price_trend": [
+      133,
+      133,
+      133,
+      133,
+      133,
+      133,
+      133
+    ]
+  },
+  {
+    "id": 501,
+    "product_name": "LL DRIP RIL",
+    "product_grade": "JD22010 - 2 MFI",
+    "category_full_name": "LL - DRIP",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 502,
+    "product_name": "LL MOLDING SABIC",
+    "product_grade": "M20 - 20 MFI",
+    "category_full_name": "LL - MOLDING",
+    "current_price": "103.20",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 503,
+    "product_name": "LL MOLDING EXXON",
+    "product_grade": "6201XR - 50 MFI",
+    "category_full_name": "LL - MOLDING",
+    "current_price": "153.00",
+    "price_trend": [
+      153,
+      153,
+      153,
+      153,
+      153,
+      153,
+      153
+    ]
+  },
+  {
+    "id": 504,
+    "product_name": "LL HEAVY BOROUGE",
+    "product_grade": "FB2230 - 0.25 MFI",
+    "category_full_name": "LL - HEAVY DUTY",
+    "current_price": "120.00",
+    "price_trend": [
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      120
+    ]
+  },
+  {
+    "id": 505,
+    "product_name": "LL HEXENE DOW",
+    "product_grade": "2645G - 0.9 MFI",
+    "category_full_name": "LL - HEAVY DUTY",
+    "current_price": "114.75",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 506,
+    "product_name": "LL LAMINATION RIL",
+    "product_grade": "E24065 - 6.5 MFI",
+    "category_full_name": "LL - LAMINATION",
+    "current_price": null,
+    "price_trend": [
+      150,
+      150,
+      150,
+      150,
+      150,
+      150,
+      150
+    ]
+  },
+  {
+    "id": 507,
+    "product_name": "PVC K67 SHINETSU",
+    "product_grade": "TK-1000",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "73.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 508,
+    "product_name": "PVC K67 OPC",
+    "product_grade": "S101",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "75.90",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 509,
+    "product_name": "PVC K67 KANEKA",
+    "product_grade": "S1001T",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "69.25",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 510,
+    "product_name": "PVC K67 KANEKA",
+    "product_grade": "S1001",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "73.25",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 511,
+    "product_name": "PVC K67 MEXICHEM",
+    "product_grade": "P225",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "73.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 512,
+    "product_name": "PVC K67 RIL",
+    "product_grade": "67GER01",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "73.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 513,
+    "product_name": "PVC K67 HUAYI",
+    "product_grade": "S1000",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "74.25",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 514,
+    "product_name": "PP LAMINATION RIL",
+    "product_grade": "H350FG - 38 MFI",
+    "category_full_name": "PP - LAMINATION",
+    "current_price": "152.00",
+    "price_trend": [
+      151,
+      140,
+      140,
+      140,
+      140,
+      140,
+      150
+    ]
+  },
+  {
+    "id": 515,
+    "product_name": "PP NON-WOVEN BASELL",
+    "product_grade": "HP462S - 36 MFI",
+    "category_full_name": "PP - NON-WOVEN",
+    "current_price": "104.20",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 516,
+    "product_name": "PP RAFFIA REPRO",
+    "product_grade": "YELLOW - 3-6 MFI",
+    "category_full_name": "PP - REPROCESSED",
+    "current_price": "50.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 517,
+    "product_name": "PP RAFFIA REPRO",
+    "product_grade": "SKY BLUE - 3-6 MFI",
+    "category_full_name": "PP - REPROCESSED",
+    "current_price": "50.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 518,
+    "product_name": "PP RAFFIA REPRO",
+    "product_grade": "GREEN - 3-6 MFI",
+    "category_full_name": "PP - REPROCESSED",
+    "current_price": "50.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 519,
+    "product_name": "PP RAFFIA REPRO",
+    "product_grade": "RED - 3-6 MFI",
+    "category_full_name": "PP - REPROCESSED",
+    "current_price": "50.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 520,
+    "product_name": "PP RAFFIA REPRO",
+    "product_grade": "WHITE - 3-6 MFI",
+    "category_full_name": "PP - REPROCESSED",
+    "current_price": "59.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 521,
+    "product_name": "PP RAFFIA REPRO",
+    "product_grade": "MIX - 3-6 MFI",
+    "category_full_name": "PP - REPROCESSED",
+    "current_price": "39.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 522,
+    "product_name": "LD HEAVY REPRO",
+    "product_grade": "PHARMA REPRO NATURAL - 0.2 MFI",
+    "category_full_name": "LD - REPROCESSED ",
+    "current_price": "102.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 523,
+    "product_name": "LL METALLOCENE DOW",
+    "product_grade": "SLIP 5401 GT - 1 MFI",
+    "category_full_name": "LL - METALLOCENE",
+    "current_price": "117.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 524,
+    "product_name": "LL ROTO POWDER PRIME",
+    "product_grade": "COLOUR",
+    "category_full_name": "LL - ROTO",
+    "current_price": "117.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 525,
+    "product_name": "LL ROTO POWDER OG",
+    "product_grade": "COLOUR",
+    "category_full_name": "LL - ROTO",
+    "current_price": "108.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 526,
+    "product_name": "LL ROTO POWDER REPRO",
+    "product_grade": "BLACK MIDDLE LAYER",
+    "category_full_name": "LL - REPROCESSED",
+    "current_price": "61.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 527,
+    "product_name": "LL ROTO POWDER REPRO",
+    "product_grade": "BLACK OUTER LAYER",
+    "category_full_name": "LL - REPROCESSED",
+    "current_price": "81.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 528,
+    "product_name": "LL ROTO POWDER REPRO",
+    "product_grade": "BLUE",
+    "category_full_name": "LL - REPROCESSED",
+    "current_price": "87.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 529,
+    "product_name": "LL ROTO POWDER REPRO",
+    "product_grade": "PARROT GREEN",
+    "category_full_name": "LL - REPROCESSED",
+    "current_price": "87.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 530,
+    "product_name": "LL ROTO POWDER REPRO",
+    "product_grade": "BT",
+    "category_full_name": "LL - REPROCESSED",
+    "current_price": "87.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 531,
+    "product_name": "LL ROTO POWDER REPRO",
+    "product_grade": "SEA GREEN",
+    "category_full_name": "LL - REPROCESSED",
+    "current_price": "87.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 532,
+    "product_name": "HD BLOW REPRO",
+    "product_grade": "BLUE DRUM - 0.3 (5kg) MFI",
+    "category_full_name": "HD - REPROCESSED",
+    "current_price": "79.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 533,
+    "product_name": "HD BLOW REPRO",
+    "product_grade": "BLACK - 0.5-0.7 MFI",
+    "category_full_name": "HD - REPROCESSED",
+    "current_price": "71.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 534,
+    "product_name": "PP MOLDING IOCL",
+    "product_grade": "1750MN - 75 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "103.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 535,
+    "product_name": "PPCP MOLDING BOROUGE",
+    "product_grade": "BJ368MO - 70 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "99.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 536,
+    "product_name": "PPCP HMEL",
+    "product_grade": "CM10TE - 10 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "153.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 537,
+    "product_name": "PPCP RIL HIGH MELT",
+    "product_grade": "B650MN - 65 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": null,
+    "price_trend": [
+      142,
+      142,
+      142,
+      142,
+      142,
+      142,
+      142
+    ]
+  },
+  {
+    "id": 538,
+    "product_name": "PP RANDOM RIL",
+    "product_grade": "SRX100 - 12 MFI",
+    "category_full_name": "PP - RANDOM",
+    "current_price": "155.00",
+    "price_trend": [
+      155,
+      155,
+      155,
+      155,
+      155,
+      155,
+      155
+    ]
+  },
+  {
+    "id": 539,
+    "product_name": "HD BLOW HMEL",
+    "product_grade": "B0151D - 0.35 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "132.00",
+    "price_trend": [
+      131,
+      130,
+      131,
+      131,
+      131,
+      132,
+      131
+    ]
+  },
+  {
+    "id": 540,
+    "product_name": "HD FILM RIL",
+    "product_grade": "F60003 - 0.7 MFI",
+    "category_full_name": "HD - FILM",
+    "current_price": "150.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 541,
+    "product_name": "PVC K67 RIL",
+    "product_grade": "K-6701",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "84.00",
+    "price_trend": [
+      81,
+      84,
+      84,
+      84,
+      84,
+      84,
+      84
+    ]
+  },
+  {
+    "id": 542,
+    "product_name": "HD RAFFIA RIL",
+    "product_grade": "HD53EA010 - 1 MFI",
+    "category_full_name": "HD - RAFFIA",
+    "current_price": "91.25",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 543,
+    "product_name": "PP RANDOM BOROUGE",
+    "product_grade": "RG 568MO - 30 MFI",
+    "category_full_name": "PP - RANDOM",
+    "current_price": "104.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 544,
+    "product_name": "PPCP HMEL NP",
+    "product_grade": "NM40 - 40 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "134.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 545,
+    "product_name": "PPCP BOROUGE",
+    "product_grade": "961MO - 12 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "140.00",
+    "price_trend": [
+      140,
+      140,
+      140,
+      140,
+      140,
+      140,
+      140
+    ]
+  },
+  {
+    "id": 546,
+    "product_name": "PPCP BOROUGE",
+    "product_grade": "975MO - 40 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "100.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 547,
+    "product_name": "LL MOLDING SABIC",
+    "product_grade": "500026 - 50 MFI",
+    "category_full_name": "LL - MOLDING",
+    "current_price": null,
+    "price_trend": [
+      149,
+      149,
+      149,
+      149,
+      149,
+      149,
+      149
+    ]
+  },
+  {
+    "id": 548,
+    "product_name": "PP RIL",
+    "product_grade": "H200MK - 20 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "141.00",
+    "price_trend": [
+      141,
+      141,
+      141,
+      141,
+      141,
+      141,
+      141
+    ]
+  },
+  {
+    "id": 549,
+    "product_name": "HD BLOW HMEL",
+    "product_grade": "B0158D - 0.35 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 550,
+    "product_name": "LL NON-SLIP HMEL NP",
+    "product_grade": "NON-PRIME N0218  - 2 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "150.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 551,
+    "product_name": "HD BLOW MARLEX",
+    "product_grade": "5502 - 0.35 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "97.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 552,
+    "product_name": "PPCP BASELL",
+    "product_grade": "EP 546U - 70 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "100.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 553,
+    "product_name": "FORWARD EVA 18% ",
+    "product_grade": "MARPOL 1802 - 2 MFI",
+    "category_full_name": "EVA - VA-18%",
+    "current_price": "118.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 554,
+    "product_name": "LL POWDER HALDIA",
+    "product_grade": "L71501S - 1 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "114.00",
+    "price_trend": [
+      114,
+      114,
+      114,
+      114,
+      114,
+      114,
+      114
+    ]
+  },
+  {
+    "id": 555,
+    "product_name": "HD RAFFIA HALDIA",
+    "product_grade": "T9(C) - 1 MFI",
+    "category_full_name": "HD - RAFFIA",
+    "current_price": null,
+    "price_trend": [
+      139,
+      139,
+      139,
+      139,
+      139,
+      139,
+      139
+    ]
+  },
+  {
+    "id": 556,
+    "product_name": "PP MOLDING BCPL OG",
+    "product_grade": "IH120NA - OG - 12 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "92.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 557,
+    "product_name": "EVA 28% EXXON",
+    "product_grade": "28025 - 25 MFI",
+    "category_full_name": "EVA - VA-28%",
+    "current_price": "163.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 558,
+    "product_name": "LDPE MILK BASELL",
+    "product_grade": "2427F - 0.75 MFI",
+    "category_full_name": "LD - HEAVY DUTY",
+    "current_price": "172.00",
+    "price_trend": [
+      172,
+      172,
+      172,
+      172,
+      172,
+      172,
+      172
+    ]
+  },
+  {
+    "id": 559,
+    "product_name": "LL NON-SLIP HMEL",
+    "product_grade": "F0320L - 3 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "126.00",
+    "price_trend": [
+      116,
+      122,
+      123,
+      123,
+      125,
+      126,
+      126
+    ]
+  },
+  {
+    "id": 560,
+    "product_name": "LL METALLOCENE HMEL",
+    "product_grade": "SLIP F0116LM - 1 MFI",
+    "category_full_name": "LL - METALLOCENE",
+    "current_price": "131.00",
+    "price_trend": [
+      131,
+      131,
+      131,
+      131,
+      131,
+      131,
+      131
+    ]
+  },
+  {
+    "id": 561,
+    "product_name": "PPCP NO BREAK HMEL ",
+    "product_grade": "CM12RE - 12 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "139.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      139
+    ]
+  },
+  {
+    "id": 562,
+    "product_name": "HD MOLDING GAIL OG",
+    "product_grade": "i60A80 OG - 8 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "134.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 563,
+    "product_name": "LL FILM IOCL OG",
+    "product_grade": "XFLL - 1 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "120.00",
+    "price_trend": [
+      116,
+      118,
+      120,
+      120,
+      120,
+      120,
+      120
+    ]
+  },
+  {
+    "id": 564,
+    "product_name": "HD MOLDING GAIL OG",
+    "product_grade": "i50A180 OG - 18 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "135.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 565,
+    "product_name": "EVA 18% STAR",
+    "product_grade": "1802 - 2 MFI",
+    "category_full_name": "EVA - VA-18%",
+    "current_price": "145.00",
+    "price_trend": [
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145
+    ]
+  },
+  {
+    "id": 566,
+    "product_name": "LD HEAVY DUTY BASELL",
+    "product_grade": "2221D - 0.25 MFI",
+    "category_full_name": "LD - HEAVY DUTY",
+    "current_price": "111.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 567,
+    "product_name": "LL ROTO BCPL OG",
+    "product_grade": "R38 OG",
+    "category_full_name": "LL - ROTO",
+    "current_price": null,
+    "price_trend": [
+      134,
+      134,
+      134,
+      134,
+      134,
+      134,
+      134
+    ]
+  },
+  {
+    "id": 568,
+    "product_name": "PP HMEL",
+    "product_grade": "M20CR - 20 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": null,
+    "price_trend": [
+      147,
+      147,
+      147,
+      147,
+      147,
+      147,
+      147
+    ]
+  },
+  {
+    "id": 569,
+    "product_name": "LL ROTO RIL",
+    "product_grade": "LL36RA045 - 4.5 MFI",
+    "category_full_name": "LL - ROTO",
+    "current_price": "142.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 570,
+    "product_name": "PVC K57 CHINA",
+    "product_grade": "SG8",
+    "category_full_name": "PVC - LOW K (K57)",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 571,
+    "product_name": "HD PIPE PE-100 RIL",
+    "product_grade": "46GP003 - 0.3 MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 572,
+    "product_name": "HD MOLDING LUBAN",
+    "product_grade": "M6408 - 8 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "133.00",
+    "price_trend": [
+      133,
+      133,
+      133,
+      133,
+      133,
+      133,
+      133
+    ]
+  },
+  {
+    "id": 573,
+    "product_name": "PP RANDOM HMEL",
+    "product_grade": "RM70CR - 70 MFI",
+    "category_full_name": "PP - RANDOM",
+    "current_price": "145.00",
+    "price_trend": [
+      146,
+      146,
+      146,
+      146,
+      146,
+      145,
+      145
+    ]
+  },
+  {
+    "id": 574,
+    "product_name": "PP MOLDING SABIC",
+    "product_grade": "5706P - 12 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "132.00",
+    "price_trend": [
+      132,
+      132,
+      132,
+      132,
+      132,
+      132,
+      132
+    ]
+  },
+  {
+    "id": 575,
+    "product_name": "HD MOLDING RIL NP",
+    "product_grade": "N60075 - 8 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "144.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 576,
+    "product_name": "LD GP RIL OG",
+    "product_grade": "UTJG - 4 MFI",
+    "category_full_name": "LD - GENERAL PURPOSE",
+    "current_price": null,
+    "price_trend": [
+      161,
+      161,
+      161,
+      161,
+      161,
+      161,
+      161
+    ]
+  },
+  {
+    "id": 577,
+    "product_name": "LD LAMINATION DOW",
+    "product_grade": "EC7000 - 7 MFI",
+    "category_full_name": "LD - LAMINATION",
+    "current_price": null,
+    "price_trend": [
+      163,
+      163,
+      163,
+      163,
+      163,
+      163,
+      163
+    ]
+  },
+  {
+    "id": 578,
+    "product_name": "LD LAM ASAHI KASEI",
+    "product_grade": "L1885 - 9 MFI",
+    "category_full_name": "LD - LAMINATION",
+    "current_price": "149.00",
+    "price_trend": [
+      149,
+      149,
+      149,
+      149,
+      149,
+      149,
+      149
+    ]
+  },
+  {
+    "id": 580,
+    "product_name": "EVA 28% POLENE",
+    "product_grade": "MV1055 - 8 MFI",
+    "category_full_name": "EVA - VA-22%",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 581,
+    "product_name": "LL METALLOCENE EXXON",
+    "product_grade": "SLIP 8784MK - 0.8 MFI",
+    "category_full_name": "LL - METALLOCENE",
+    "current_price": "154.00",
+    "price_trend": [
+      154,
+      154,
+      154,
+      154,
+      154,
+      154,
+      154
+    ]
+  },
+  {
+    "id": 582,
+    "product_name": "HD MOLDING DOW",
+    "product_grade": "17450N - 17 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "95.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 583,
+    "product_name": "HD PE100 INNOPLUS",
+    "product_grade": "HD8100M - 0.03 MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": "98.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 584,
+    "product_name": "LD NON-SLIP BOROUGE",
+    "product_grade": "FT6230 - 2 MFI",
+    "category_full_name": "LD - NON-SLIP",
+    "current_price": "132.00",
+    "price_trend": [
+      132,
+      132,
+      132,
+      132,
+      132,
+      132,
+      132
+    ]
+  },
+  {
+    "id": 585,
+    "product_name": "PP POWDER HALDIA",
+    "product_grade": "UNSTABILIZED M110 - 10 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "108.00",
+    "price_trend": [
+      108,
+      108,
+      108,
+      108,
+      108,
+      108,
+      108
+    ]
+  },
+  {
+    "id": 586,
+    "product_name": "HD BLOW MBM RIL",
+    "product_grade": "52GB003 - 0.45 MFI",
+    "category_full_name": "HD - MEDIUM BLOW (MBM)",
+    "current_price": "103.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 587,
+    "product_name": "PPCP RIL NP",
+    "product_grade": "N120 - 12 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "147.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 588,
+    "product_name": "PP MOLDING POLIMAXX",
+    "product_grade": "K1111 - 11 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "124.00",
+    "price_trend": [
+      124,
+      124,
+      124,
+      124,
+      124,
+      124,
+      124
+    ]
+  },
+  {
+    "id": 589,
+    "product_name": "PP RAFFIA MARLEX",
+    "product_grade": "HGX030SP - 3 MFI",
+    "category_full_name": "PP - RAFFIA",
+    "current_price": "94.00",
+    "price_trend": [
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94
+    ]
+  },
+  {
+    "id": 591,
+    "product_name": "LD GP SABIC",
+    "product_grade": "HP4024WN - 4 MFI",
+    "category_full_name": "LD - GENERAL PURPOSE",
+    "current_price": "112.75",
+    "price_trend": [
+      112.75,
+      112.75,
+      112.75,
+      112.75,
+      112.75,
+      112.75,
+      112.75
+    ]
+  },
+  {
+    "id": 592,
+    "product_name": "LD GP SABIC",
+    "product_grade": "HP4025ZN - 4 MFI",
+    "category_full_name": "LD - GENERAL PURPOSE",
+    "current_price": "152.00",
+    "price_trend": [
+      150,
+      152,
+      152,
+      152,
+      152,
+      152,
+      152
+    ]
+  },
+  {
+    "id": 593,
+    "product_name": "PVC K67 AGC VINYTHAI",
+    "product_grade": "266RC",
+    "category_full_name": "PVC - SUSPENSION K67",
+    "current_price": "103.50",
+    "price_trend": [
+      103.5,
+      103.5,
+      103.5,
+      103.5,
+      103.5,
+      103.5,
+      103.5
+    ]
+  },
+  {
+    "id": 594,
+    "product_name": "HD PIPE PE100 SABIC",
+    "product_grade": "P6006N - 0.23 MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": "94.50",
+    "price_trend": [
+      94.5,
+      94.5,
+      94.5,
+      94.5,
+      94.5,
+      94.5,
+      94.5
+    ]
+  },
+  {
+    "id": 595,
+    "product_name": "HD PIPE PE100 OPAL",
+    "product_grade": "50H03 - 0.27 MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 596,
+    "product_name": "LL METALLOCENE HMEL",
+    "product_grade": "NON SLIP F0418LM - 3.5 MFI",
+    "category_full_name": "LL - METALLOCENE",
+    "current_price": null,
+    "price_trend": [
+      147.5,
+      147.5,
+      147.5,
+      147.5,
+      147.5,
+      147.5,
+      147.5
+    ]
+  },
+  {
+    "id": 597,
+    "product_name": "PP HMEL",
+    "product_grade": "M18NH1 - 18 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "96.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 598,
+    "product_name": "LL METALLOCENE HMEL",
+    "product_grade": "F0115LM - 1.0 MFI",
+    "category_full_name": "LL - METALLOCENE",
+    "current_price": "131.00",
+    "price_trend": [
+      131,
+      131,
+      131,
+      131,
+      131,
+      131,
+      131
+    ]
+  },
+  {
+    "id": 599,
+    "product_name": "LD MILK DOW",
+    "product_grade": "312E - 0.75 MFI",
+    "category_full_name": "LD - MILK",
+    "current_price": "133.00",
+    "price_trend": [
+      133,
+      133,
+      133,
+      133,
+      133,
+      133,
+      133
+    ]
+  },
+  {
+    "id": 600,
+    "product_name": "LD LAM TOTAL",
+    "product_grade": "LA0710 - 7.5 MFI",
+    "category_full_name": "LD - LAMINATION",
+    "current_price": "114.50",
+    "price_trend": [
+      114.5,
+      114.5,
+      114.5,
+      114.5,
+      114.5,
+      114.5,
+      114.5
+    ]
+  },
+  {
+    "id": 601,
+    "product_name": "LL METALLOCENE EXXON",
+    "product_grade": "NONSLIP 1018MA - 1 MFI",
+    "category_full_name": "LL - METALLOCENE",
+    "current_price": "150.00",
+    "price_trend": [
+      150,
+      150,
+      150,
+      150,
+      150,
+      150,
+      150
+    ]
+  },
+  {
+    "id": 602,
+    "product_name": "LD HEAVY INNOPLUS",
+    "product_grade": "2420D - 0.27 MFI",
+    "category_full_name": "LD - HEAVY DUTY",
+    "current_price": null,
+    "price_trend": [
+      139,
+      139,
+      139,
+      139,
+      139,
+      139,
+      139
+    ]
+  },
+  {
+    "id": 603,
+    "product_name": "LL METALLOCENE EXXON",
+    "product_grade": "CAST FILM 3518CB - 3.5 MFI",
+    "category_full_name": "LL - METALLOCENE",
+    "current_price": "105.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 604,
+    "product_name": "LL METALLOCENE TOTAL",
+    "product_grade": "CAST FILM M1835 - 3.5 MFI",
+    "category_full_name": "LL - METALLOCENE",
+    "current_price": "102.00",
+    "price_trend": [
+      102,
+      102,
+      102,
+      102,
+      102,
+      102,
+      102
+    ]
+  },
+  {
+    "id": 605,
+    "product_name": "LL METALLOCENE EXXON",
+    "product_grade": "SLIP 1018RK - 1 MFI",
+    "category_full_name": "LL - METALLOCENE",
+    "current_price": "150.00",
+    "price_trend": [
+      150,
+      150,
+      150,
+      150,
+      150,
+      150,
+      150
+    ]
+  },
+  {
+    "id": 606,
+    "product_name": "LL METALLOCENE TOTAL",
+    "product_grade": "M1810EP - 1 MFI",
+    "category_full_name": "LL - METALLOCENE",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 607,
+    "product_name": "LD LAM HANWHA",
+    "product_grade": "965 - 7.2 MFI",
+    "category_full_name": "LD - LAMINATION",
+    "current_price": "117.00",
+    "price_trend": [
+      117,
+      117,
+      117,
+      117,
+      117,
+      117,
+      117
+    ]
+  },
+  {
+    "id": 608,
+    "product_name": "PP RANDOM BOROUGE",
+    "product_grade": "RE425MO - 14 MFI",
+    "category_full_name": "PP - RANDOM",
+    "current_price": "95.50",
+    "price_trend": [
+      95.5,
+      95.5,
+      95.5,
+      95.5,
+      95.5,
+      95.5,
+      95.5
+    ]
+  },
+  {
+    "id": 609,
+    "product_name": "LD EXTRUSION TOTAL",
+    "product_grade": "LD 0304 - 4 MFI",
+    "category_full_name": "LD - LAMINATION",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 610,
+    "product_name": "LD MILK TOTAL",
+    "product_grade": "FE 8004 - 0.8 MFI",
+    "category_full_name": "LD - MILK",
+    "current_price": "112.00",
+    "price_trend": [
+      112,
+      112,
+      112,
+      112,
+      112,
+      112,
+      112
+    ]
+  },
+  {
+    "id": 611,
+    "product_name": "PPCP BLOW CHINA",
+    "product_grade": "EP300H - 1.5 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "98.50",
+    "price_trend": [
+      98.5,
+      98.5,
+      98.5,
+      98.5,
+      98.5,
+      98.5,
+      98.5
+    ]
+  },
+  {
+    "id": 612,
+    "product_name": "LL METALLOCENE HMEL",
+    "product_grade": "OG - OGLL LM - 2 MFI",
+    "category_full_name": "LL - METALLOCENE",
+    "current_price": "123.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      123.5,
+      123.5
+    ]
+  },
+  {
+    "id": 613,
+    "product_name": "LL METALLOCENE HMEL",
+    "product_grade": "OG- OGLL HM - 7 MFI",
+    "category_full_name": "LL - METALLOCENE",
+    "current_price": "123.00",
+    "price_trend": [
+      119,
+      119,
+      119,
+      119,
+      119,
+      123,
+      123
+    ]
+  },
+  {
+    "id": 614,
+    "product_name": "PP MOLDING NATPET NP",
+    "product_grade": "NON PRIME",
+    "category_full_name": "PP - MOLDING",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 615,
+    "product_name": "LD LAM LG",
+    "product_grade": "LB7000 - 7.2 MFI",
+    "category_full_name": "LD - LAMINATION",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 616,
+    "product_name": "EVA 18% MARPOL",
+    "product_grade": "1803 - 3.8 MFI",
+    "category_full_name": "EVA - VA-18%",
+    "current_price": "124.00",
+    "price_trend": [
+      124,
+      124,
+      124,
+      124,
+      124,
+      124,
+      124
+    ]
+  },
+  {
+    "id": 617,
+    "product_name": "LD GP INNOPLUS",
+    "product_grade": "2426K - 4 MFI",
+    "category_full_name": "LD - GENERAL PURPOSE",
+    "current_price": "164.50",
+    "price_trend": [
+      164.5,
+      164.5,
+      164.5,
+      164.5,
+      164.5,
+      164.5,
+      164.5
+    ]
+  },
+  {
+    "id": 618,
+    "product_name": "HD BLOW HMEL NP",
+    "product_grade": "N0158D - 0.35 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 619,
+    "product_name": "LL ROTO IOCL OG",
+    "product_grade": "XRLL",
+    "category_full_name": "LL - ROTO",
+    "current_price": "143.00",
+    "price_trend": [
+      143,
+      143,
+      143,
+      143,
+      143,
+      143,
+      143
+    ]
+  },
+  {
+    "id": 620,
+    "product_name": "PPCP BOROUGE",
+    "product_grade": "BD265MO - 7 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "154.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 621,
+    "product_name": "LD NONSLIP BORUGE NP",
+    "product_grade": "FT4119 - NONPRIME",
+    "category_full_name": "LD - NON-SLIP",
+    "current_price": "147.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 622,
+    "product_name": "LD GP BASELL OG",
+    "product_grade": "LD OG",
+    "category_full_name": "LD - GENERAL PURPOSE",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 623,
+    "product_name": "LL SLIP SABIC",
+    "product_grade": "118WM - 1 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "135.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 624,
+    "product_name": "LL MOLDING GAIL",
+    "product_grade": "i26A350 - 35 MFI",
+    "category_full_name": "LL - MOLDING",
+    "current_price": "146.00",
+    "price_trend": [
+      146,
+      146,
+      146,
+      146,
+      146,
+      146,
+      146
+    ]
+  },
+  {
+    "id": 625,
+    "product_name": "EVA 18% HANWHA",
+    "product_grade": "6319 - 2 MFI",
+    "category_full_name": "EVA - VA-18%",
+    "current_price": "137.00",
+    "price_trend": [
+      139.5,
+      137,
+      137,
+      137,
+      137,
+      137,
+      137.5
+    ]
+  },
+  {
+    "id": 626,
+    "product_name": "PVC K57 HANWHA",
+    "product_grade": "P700",
+    "category_full_name": "PVC - LOW K (K57)",
+    "current_price": "108.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 627,
+    "product_name": "PP RANDOM HMEL",
+    "product_grade": "CE02RR - 1.8 MFI",
+    "category_full_name": "PP - RANDOM BLOW",
+    "current_price": "148.00",
+    "price_trend": [
+      148,
+      148,
+      148,
+      148,
+      148,
+      148,
+      148
+    ]
+  },
+  {
+    "id": 628,
+    "product_name": "PP THERMO BOROUGE",
+    "product_grade": "HC205TF - 4 MFI",
+    "category_full_name": "PP - THERMOFORMING",
+    "current_price": "128.50",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 629,
+    "product_name": "HD BLOW MBM HMEL NP",
+    "product_grade": "N0148D",
+    "category_full_name": "HD - MEDIUM BLOW (MBM)",
+    "current_price": "147.00",
+    "price_trend": [
+      147,
+      147,
+      147,
+      147,
+      147,
+      147,
+      147
+    ]
+  },
+  {
+    "id": 630,
+    "product_name": "PP RANDOM BOROUGE",
+    "product_grade": "RJ768MO - 70 MFI",
+    "category_full_name": "PP - RANDOM",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 631,
+    "product_name": "PP RANDOM PIPE RIL",
+    "product_grade": "AER003N - 0.3 MFI",
+    "category_full_name": "PP - RANDOM",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 632,
+    "product_name": "EVA 18% FORMOSA",
+    "product_grade": "7350 - 2.5 MFI",
+    "category_full_name": "EVA - VA-18%",
+    "current_price": "137.00",
+    "price_trend": [
+      137,
+      137,
+      137,
+      137,
+      137,
+      137,
+      137
+    ]
+  },
+  {
+    "id": 633,
+    "product_name": "LD OG RIL",
+    "product_grade": "UTBC",
+    "category_full_name": "LD - GENERAL PURPOSE",
+    "current_price": "147.75",
+    "price_trend": [
+      146,
+      144,
+      144,
+      144,
+      144,
+      148,
+      147.75
+    ]
+  },
+  {
+    "id": 634,
+    "product_name": "LD HEAVY DUTY SABIC",
+    "product_grade": "HP0321NN - 0.25 MFI",
+    "category_full_name": "LD - HEAVY DUTY",
+    "current_price": "165.00",
+    "price_trend": [
+      165,
+      165,
+      165,
+      165,
+      165,
+      165,
+      165
+    ]
+  },
+  {
+    "id": 635,
+    "product_name": "LD LAM SUMITOMO",
+    "product_grade": "L705 - 7 MFI",
+    "category_full_name": "LD - LAMINATION",
+    "current_price": null,
+    "price_trend": [
+      162,
+      162,
+      162,
+      162,
+      162,
+      162,
+      162
+    ]
+  },
+  {
+    "id": 636,
+    "product_name": "LL ROTO OG HMEL",
+    "product_grade": "OGLLRS",
+    "category_full_name": "LL - ROTO",
+    "current_price": "132.00",
+    "price_trend": [
+      132,
+      132,
+      132,
+      132,
+      132,
+      132,
+      132
+    ]
+  },
+  {
+    "id": 637,
+    "product_name": "PP+CP MIX HALDIA",
+    "product_grade": "M108Z",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "128.00",
+    "price_trend": [
+      128,
+      128,
+      128,
+      128,
+      128,
+      128,
+      128
+    ]
+  },
+  {
+    "id": 638,
+    "product_name": "HD MBM LUBAN",
+    "product_grade": "B4809 (6147) - 0.05 MFI",
+    "category_full_name": "HD - MEDIUM BLOW (MBM)",
+    "current_price": "162.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 639,
+    "product_name": "HM LUBAN",
+    "product_grade": "F4811 - 0.05 MFI",
+    "category_full_name": "HD - HM",
+    "current_price": "151.50",
+    "price_trend": [
+      151.5,
+      151.5,
+      151.5,
+      151.5,
+      151.5,
+      151.5,
+      151.5
+    ]
+  },
+  {
+    "id": 640,
+    "product_name": "PP SUMITOMO",
+    "product_grade": "Y101 - 15 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "127.50",
+    "price_trend": [
+      127.5,
+      127.5,
+      127.5,
+      127.5,
+      127.5,
+      127.5,
+      127.5
+    ]
+  },
+  {
+    "id": 641,
+    "product_name": "HM SUMITOMO",
+    "product_grade": "F0554 - 0.05 MFI",
+    "category_full_name": "HD - HM",
+    "current_price": "145.00",
+    "price_trend": [
+      145,
+      145,
+      145,
+      145,
+      145,
+      145,
+      145
+    ]
+  },
+  {
+    "id": 642,
+    "product_name": "PP RAFFIA SCG",
+    "product_grade": "P400S - 3.5 MFI",
+    "category_full_name": "PP - RAFFIA",
+    "current_price": "143.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 643,
+    "product_name": "LL NON-SLIP OPAL",
+    "product_grade": "F2003A - 3 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": null,
+    "price_trend": [
+      115,
+      115,
+      115,
+      115,
+      115,
+      115,
+      115
+    ]
+  },
+  {
+    "id": 644,
+    "product_name": "LL NON-SLIP RIL",
+    "product_grade": "F17030 - 3 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "116.00",
+    "price_trend": [
+      116,
+      116,
+      116,
+      116,
+      116,
+      116,
+      116
+    ]
+  },
+  {
+    "id": 645,
+    "product_name": "LL SLIP SUMITOMO",
+    "product_grade": "FS153S - 1 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 646,
+    "product_name": "LL ROTO GAIL",
+    "product_grade": "R36A050U-B - 4.5 MFI",
+    "category_full_name": "LL - ROTO",
+    "current_price": "136.00",
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 647,
+    "product_name": "HD MOLDING DOW",
+    "product_grade": "DMDA 8920 - 20 MFI",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "124.00",
+    "price_trend": [
+      141.5,
+      141.5,
+      124,
+      124,
+      124,
+      124,
+      124
+    ]
+  },
+  {
+    "id": 648,
+    "product_name": "LL SLIP SUMITOMO",
+    "product_grade": "FS253S - 2 MFI",
+    "category_full_name": "LL - LL FILM",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 649,
+    "product_name": "PPCP OPAL ",
+    "product_grade": "MI03 - 3 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 650,
+    "product_name": "PP SCG",
+    "product_grade": "P700J - 12 MFI",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "132.00",
+    "price_trend": [
+      132,
+      132,
+      132,
+      132,
+      132,
+      132,
+      132
+    ]
+  },
+  {
+    "id": 651,
+    "product_name": "PPCP SCG",
+    "product_grade": "P740J - 27 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": null,
+    "price_trend": [
+      135,
+      135,
+      135,
+      135,
+      135,
+      135,
+      135
+    ]
+  },
+  {
+    "id": 652,
+    "product_name": "PPCP RIL ",
+    "product_grade": "B220MN - 22 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": null,
+    "price_trend": [
+      143,
+      143,
+      143,
+      143,
+      143,
+      143,
+      143
+    ]
+  },
+  {
+    "id": 653,
+    "product_name": "PP MOLDING ECO ",
+    "product_grade": "SN NATURAL",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "105.00",
+    "price_trend": [
+      105,
+      105,
+      105,
+      105,
+      105,
+      105,
+      105
+    ]
+  },
+  {
+    "id": 654,
+    "product_name": "HD BLOW ECO",
+    "product_grade": "SN NATURAL",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "114.00",
+    "price_trend": [
+      114,
+      114,
+      114,
+      114,
+      114,
+      114,
+      114
+    ]
+  },
+  {
+    "id": 655,
+    "product_name": "HD PIPE ECO",
+    "product_grade": "C1 BLUE - 0.3 MFI",
+    "category_full_name": "HD - PIPE",
+    "current_price": "81.00",
+    "price_trend": [
+      81,
+      81,
+      81,
+      81,
+      81,
+      81,
+      81
+    ]
+  },
+  {
+    "id": 656,
+    "product_name": "HD BLOW ECO",
+    "product_grade": "COLOUR",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "80.00",
+    "price_trend": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+    ]
+  },
+  {
+    "id": 657,
+    "product_name": "LL METALLOCENE EXXON",
+    "product_grade": "SLIP 8784RK",
+    "category_full_name": "LL - METALLOCENE",
+    "current_price": "154.00",
+    "price_trend": [
+      154,
+      154,
+      154,
+      154,
+      154,
+      154,
+      154
+    ]
+  },
+  {
+    "id": 658,
+    "product_name": "LL METALLOCENE EXXON",
+    "product_grade": "NON SLIP 8784ML - 0.8 MFI",
+    "category_full_name": "LL - METALLOCENE",
+    "current_price": "154.00",
+    "price_trend": [
+      154,
+      154,
+      154,
+      154,
+      154,
+      154,
+      154
+    ]
+  },
+  {
+    "id": 659,
+    "product_name": "PPCP MOLDING ECO",
+    "product_grade": "NATURAL",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "125.00",
+    "price_trend": [
+      125,
+      125,
+      125,
+      125,
+      125,
+      125,
+      125
+    ]
+  },
+  {
+    "id": 660,
+    "product_name": "HD MOLDING ECO",
+    "product_grade": "COLOUR",
+    "category_full_name": "HD - MOLDING",
+    "current_price": "81.00",
+    "price_trend": [
+      81,
+      81,
+      81,
+      81,
+      81,
+      81,
+      81
+    ]
+  },
+  {
+    "id": 661,
+    "product_name": "LD MILK INNOPLUS",
+    "product_grade": "2426F",
+    "category_full_name": "LD - MILK",
+    "current_price": "171.00",
+    "price_trend": [
+      171,
+      171,
+      171,
+      171,
+      171,
+      171,
+      171
+    ]
+  },
+  {
+    "id": 662,
+    "product_name": "PP MOLDING ECO",
+    "product_grade": "SUPER MILKY",
+    "category_full_name": "PP - MOLDING",
+    "current_price": "103.00",
+    "price_trend": [
+      103,
+      103,
+      103,
+      103,
+      103,
+      103,
+      103
+    ]
+  },
+  {
+    "id": 663,
+    "product_name": "HD BLOW LUBAN",
+    "product_grade": "B5333 (6200) - 0.3 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": "129.00",
+    "price_trend": [
+      127.5,
+      127.5,
+      129,
+      129,
+      129,
+      129,
+      129
+    ]
+  },
+  {
+    "id": 664,
+    "product_name": "LL OG RIL",
+    "product_grade": "UFNC",
+    "category_full_name": "LL - LL FILM",
+    "current_price": "120.00",
+    "price_trend": [
+      119,
+      120,
+      120,
+      120,
+      120,
+      120,
+      120
+    ]
+  },
+  {
+    "id": 665,
+    "product_name": "PPCP HIGH MELT RIL",
+    "product_grade": "B300MN - 30 MFI",
+    "category_full_name": "PP - PPCP (COPOLYMER)",
+    "current_price": "142.00",
+    "price_trend": [
+      136,
+      136,
+      136,
+      136,
+      138,
+      142,
+      142
+    ]
+  },
+  {
+    "id": 666,
+    "product_name": "LD GP SLIP LOTTE",
+    "product_grade": "LDF260GG - 5 MFI",
+    "category_full_name": "LD - GENERAL PURPOSE",
+    "current_price": "180.00",
+    "price_trend": [
+      180,
+      180,
+      180,
+      180,
+      180,
+      180,
+      180
+    ]
+  },
+  {
+    "id": 667,
+    "product_name": "HD BLOW DOW",
+    "product_grade": "6200 - 0.35 MFI",
+    "category_full_name": "HD - BLOW (GPBM)",
+    "current_price": null,
+    "price_trend": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]
