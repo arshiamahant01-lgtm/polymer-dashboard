@@ -94,22 +94,25 @@ def fetch_crude_and_gas():
     if not EIA_API_KEY:
         print("EIA_API_KEY not set yet — skipping EIA crude/nat-gas backfill (see CLAUDE.md).", file=sys.stderr)
     else:
-        brent = fetch_eia_series("petroleum/pri/spt", "RBRTE", ONE_YEAR_AGO)
-        wti = fetch_eia_series("petroleum/pri/spt", "RWTC", ONE_YEAR_AGO)
-        brent_by_date = {r["date"]: r["value"] for r in brent}
-        wti_by_date = {r["date"]: r["value"] for r in wti}
-        all_dates = sorted(set(brent_by_date) | set(wti_by_date))
-        rows = [
-            {"date": d, "brent": brent_by_date.get(d, ""), "wti": wti_by_date.get(d, "")}
-            for d in all_dates
-        ]
-        added = upsert_csv("crude_oil.csv", rows, key_cols=["date"])
-        print(f"crude_oil.csv: upserted {added} rows from EIA")
+        try:
+            brent = fetch_eia_series("petroleum/pri/spt", "RBRTE", ONE_YEAR_AGO)
+            wti = fetch_eia_series("petroleum/pri/spt", "RWTC", ONE_YEAR_AGO)
+            brent_by_date = {r["date"]: r["value"] for r in brent}
+            wti_by_date = {r["date"]: r["value"] for r in wti}
+            all_dates = sorted(set(brent_by_date) | set(wti_by_date))
+            rows = [
+                {"date": d, "brent": brent_by_date.get(d, ""), "wti": wti_by_date.get(d, "")}
+                for d in all_dates
+            ]
+            added = upsert_csv("crude_oil.csv", rows, key_cols=["date"])
+            print(f"crude_oil.csv: upserted {added} rows from EIA")
 
-        henry_hub = fetch_eia_series("natural-gas/pri/fut", "RNGWHHD", ONE_YEAR_AGO)
-        rows = [{"date": r["date"], "henry_hub": r["value"]} for r in henry_hub]
-        added = upsert_csv("natgas.csv", rows, key_cols=["date"])
-        print(f"natgas.csv: upserted {added} rows from EIA (henry_hub)")
+            henry_hub = fetch_eia_series("natural-gas/pri/fut", "RNGWHHD", ONE_YEAR_AGO)
+            rows = [{"date": r["date"], "henry_hub": r["value"]} for r in henry_hub]
+            added = upsert_csv("natgas.csv", rows, key_cols=["date"])
+            print(f"natgas.csv: upserted {added} rows from EIA (henry_hub)")
+        except Exception as exc:
+            print(f"EIA fetch failed (non-fatal): {exc}", file=sys.stderr)
 
     # Business Insider: fresher (same-day) than EIA for recent dates. Runs after
     # EIA so its values win on any overlapping date via upsert_csv's keep="last".
